@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"PY",
     "wof:created":1499130583,
-    "wof:geomhash":"e104b3a1ef1cfeff259c9d8ff49c8628",
+    "wof:geomhash":"3ed59432b5ec847991577806e8456988",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,5 +150,5 @@
     -54.76994917969358,
     -26.02002805705382
 ],
-  "geometry": {"coordinates":[-54.76994917969358,-26.02002805705382],"type":"Point"}
+  "geometry": {"coordinates":[-54.769949,-26.020028],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Yataity"
     },
     "wof:country":"PY",
-    "wof:geomhash":"296b0db2ef913a6b8d094514b07c4a09",
+    "wof:geomhash":"12a2622503db7a31e2dc71fd674d0e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -56.06667,
     -26.36667000000001
 ],
-  "geometry": {"coordinates":[-56.06667,-26.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.06667,-26.36667],"type":"Point"}
 }

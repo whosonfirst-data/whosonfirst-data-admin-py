@@ -66,7 +66,7 @@
         "wk:page":"Jos%C3%A9_Falc%C3%B3n%2C_Paraguay"
     },
     "wof:country":"PY",
-    "wof:geomhash":"5bb3a428ea70817ea029aa673b1595ec",
+    "wof:geomhash":"7da4e384fb0ae97b9fdcbda6cd25ea57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,5 +92,5 @@
     -57.71666999999999,
     -25.25
 ],
-  "geometry": {"coordinates":[-57.71666999999999,-25.25],"type":"Point"}
+  "geometry": {"coordinates":[-57.71667,-25.25],"type":"Point"}
 }

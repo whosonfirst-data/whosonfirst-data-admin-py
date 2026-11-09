@@ -42,7 +42,7 @@
         "gn:id":3438805
     },
     "wof:country":"PY",
-    "wof:geomhash":"f8324f683469bd01167d9267b707093d",
+    "wof:geomhash":"51f8484e59be2e63b70e32aad40c8f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -56.53333000000001,
     -25.71667
 ],
-  "geometry": {"coordinates":[-56.53333000000001,-25.71667],"type":"Point"}
+  "geometry": {"coordinates":[-56.53333,-25.71667],"type":"Point"}
 }

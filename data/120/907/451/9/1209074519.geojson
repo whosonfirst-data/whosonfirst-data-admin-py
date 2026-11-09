@@ -48,7 +48,7 @@
         "wk:page":"General_Eugenio_A._Garay%2C_Boquer%C3%B3n"
     },
     "wof:country":"PY",
-    "wof:geomhash":"ec769dd888d590ae70678915ec6e17b9",
+    "wof:geomhash":"36147dfffc5f514685be90f2d17ff4db",
     "wof:hierarchy":[
         {
             "country_id":85632355,
@@ -71,5 +71,5 @@
     -62.13333000000001,
     -20.51667
 ],
-  "geometry": {"coordinates":[-62.13333000000001,-20.51667],"type":"Point"}
+  "geometry": {"coordinates":[-62.13333,-20.51667],"type":"Point"}
 }

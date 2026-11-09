@@ -243,7 +243,7 @@
     },
     "wof:country":"PY",
     "wof:created":1459009453,
-    "wof:geomhash":"159e8572c357b8676ff5d97244772d29",
+    "wof:geomhash":"58173de164c22c2ce59f3564cc3819f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -271,5 +271,5 @@
     -55.0,
     -25.45
 ],
-  "geometry": {"coordinates":[-55.0,-25.45],"type":"Point"}
+  "geometry": {"coordinates":[-55,-25.45],"type":"Point"}
 }
