@@ -1,0 +1,74 @@
+{
+  "id": 9895054054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.62063,-27.07323,-56.62063,-27.07323",
+    "geom:latitude":-27.07323,
+    "geom:longitude":-56.62063,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11686283: name \"Compa\u00f1\u00eda Ybyraty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11686283"
+        },
+        {
+            "citation":"GeoNames populated place 11686283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11686283"
+        },
+        {
+            "citation":"GeoNames populated place 11686283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11686283"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692743 (General Delgado), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11686283
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ada0e5fa5db5efa48b43c674695c2096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692743,
+            "locality_id":9895054054,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895054054,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Ybyraty",
+    "wof:parent_id":1108692743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.62063,
+    -27.07323,
+    -56.62063,
+    -27.07323
+],
+  "geometry": {"coordinates":[-56.62063,-27.07323],"type":"Point"}
+}

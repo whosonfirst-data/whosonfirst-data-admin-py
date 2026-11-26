@@ -1,0 +1,74 @@
+{
+  "id": 9895054461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.56648,-26.52282,-57.56648,-26.52282",
+    "geom:latitude":-26.52282,
+    "geom:longitude":-57.56648,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11715307: name \"Puesto Mbocaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11715307"
+        },
+        {
+            "citation":"GeoNames populated place 11715307: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11715307"
+        },
+        {
+            "citation":"GeoNames populated place 11715307: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11715307"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692707 (Caapucu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11715307
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"78baf168ef5b101a2880c0e3a41f9e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692707,
+            "locality_id":9895054461,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054461,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puesto Mbocaya",
+    "wof:parent_id":1108692707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.56648,
+    -26.52282,
+    -57.56648,
+    -26.52282
+],
+  "geometry": {"coordinates":[-57.56648,-26.52282],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895053836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.88333,-23.4,-56.88333,-23.4",
+    "geom:latitude":-23.4,
+    "geom:longitude":-56.88333,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437992: name \"Horqueta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437992"
+        },
+        {
+            "citation":"GeoNames populated place 3437992: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437992"
+        },
+        {
+            "citation":"GeoNames populated place 3437992: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437992"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692745 (Horqueta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676665,
+        102191577,
+        1108692745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437992
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2bc0031a9f44e129b085c421dbec378a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692745,
+            "locality_id":9895053836,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":9895053836,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Horqueta",
+    "wof:parent_id":1108692745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.88333,
+    -23.4,
+    -56.88333,
+    -23.4
+],
+  "geometry": {"coordinates":[-56.88333,-23.4],"type":"Point"}
+}

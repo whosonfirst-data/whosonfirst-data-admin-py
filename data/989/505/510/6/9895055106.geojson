@@ -1,0 +1,74 @@
+{
+  "id": 9895055106,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.53729,-24.586,-56.53729,-24.586",
+    "geom:latitude":-24.586,
+    "geom:longitude":-56.53729,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11732146: name \"Compa\u00f1\u00eda Yh\u00fa Rugu\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11732146"
+        },
+        {
+            "citation":"GeoNames populated place 11732146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11732146"
+        },
+        {
+            "citation":"GeoNames populated place 11732146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11732146"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189517 (San Estanislao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        421189517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11732146
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"78675df3798b9849bd963b4b7bc6b93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189517,
+            "locality_id":9895055106,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055106,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Yh\u00fa Rugu\u00e1",
+    "wof:parent_id":421189517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.53729,
+    -24.586,
+    -56.53729,
+    -24.586
+],
+  "geometry": {"coordinates":[-56.53729,-24.586],"type":"Point"}
+}

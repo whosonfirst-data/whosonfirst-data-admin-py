@@ -1,0 +1,74 @@
+{
+  "id": 9895054391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.13859,-26.92903,-58.13859,-26.92903",
+    "geom:latitude":-26.92903,
+    "geom:longitude":-58.13859,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11714771: name \"Establecimiento Acu\u00f1a\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11714771"
+        },
+        {
+            "citation":"GeoNames populated place 11714771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11714771"
+        },
+        {
+            "citation":"GeoNames populated place 11714771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11714771"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692805 (Guazu Cua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11714771
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"81b57eeb65b0f8e9fdf980922addcca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692805,
+            "locality_id":9895054391,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054391,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Establecimiento Acu\u00f1a",
+    "wof:parent_id":1108692805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.13859,
+    -26.92903,
+    -58.13859,
+    -26.92903
+],
+  "geometry": {"coordinates":[-58.13859,-26.92903],"type":"Point"}
+}

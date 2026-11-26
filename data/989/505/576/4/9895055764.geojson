@@ -1,0 +1,74 @@
+{
+  "id": 9895055764,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.11121,-24.12164,-57.11121,-24.12164",
+    "geom:latitude":-24.12164,
+    "geom:longitude":-57.11121,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11764574: name \"Compa\u00f1\u00eda Angelita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11764574"
+        },
+        {
+            "citation":"GeoNames populated place 11764574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11764574"
+        },
+        {
+            "citation":"GeoNames populated place 11764574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11764574"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692761 (San Pedro Del Ykuamandiyu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11764574
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cc71760c677d4cd5ce7a2c55415b18e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":9895055764,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055764,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Angelita",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.11121,
+    -24.12164,
+    -57.11121,
+    -24.12164
+],
+  "geometry": {"coordinates":[-57.11121,-24.12164],"type":"Point"}
+}

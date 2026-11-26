@@ -1,0 +1,74 @@
+{
+  "id": 9895056296,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.43103,-26.08526,-56.43103,-26.08526",
+    "geom:latitude":-26.08526,
+    "geom:longitude":-56.43103,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773706: name \"Caaty-M\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773706"
+        },
+        {
+            "citation":"GeoNames populated place 11773706: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773706"
+        },
+        {
+            "citation":"GeoNames populated place 11773706: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773706"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692601 (Iturbe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        1108692601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773706
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"58b4d0d3932fc8a0d8e74133ba388d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692601,
+            "locality_id":9895056296,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056296,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Caaty-M\u00ed",
+    "wof:parent_id":1108692601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.43103,
+    -26.08526,
+    -56.43103,
+    -26.08526
+],
+  "geometry": {"coordinates":[-56.43103,-26.08526],"type":"Point"}
+}

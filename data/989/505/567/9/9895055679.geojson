@@ -1,0 +1,74 @@
+{
+  "id": 9895055679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.89544,-24.90745,-56.89544,-24.90745",
+    "geom:latitude":-24.90745,
+    "geom:longitude":-56.89544,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11762974: name \"Estancia Na Leute-cue\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11762974"
+        },
+        {
+            "citation":"GeoNames populated place 11762974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11762974"
+        },
+        {
+            "citation":"GeoNames populated place 11762974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11762974"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692515 (Juan De Mena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11762974
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"43e006aeb62878491c73522b7b30a25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692515,
+            "locality_id":9895055679,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055679,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Na Leute-cue",
+    "wof:parent_id":1108692515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.89544,
+    -24.90745,
+    -56.89544,
+    -24.90745
+],
+  "geometry": {"coordinates":[-56.89544,-24.90745],"type":"Point"}
+}

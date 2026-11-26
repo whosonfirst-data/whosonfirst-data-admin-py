@@ -1,0 +1,74 @@
+{
+  "id": 9895054557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.80956,-26.01592,-57.80956,-26.01592",
+    "geom:latitude":-26.01592,
+    "geom:longitude":-57.80956,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11717269: name \"Estancia Josefina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11717269"
+        },
+        {
+            "citation":"GeoNames populated place 11717269: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11717269"
+        },
+        {
+            "citation":"GeoNames populated place 11717269: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11717269"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692791 (Villa Oliva), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11717269
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"209ad0120d6d033a7c3bc30d87ab18bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692791,
+            "locality_id":9895054557,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054557,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Josefina",
+    "wof:parent_id":1108692791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.80956,
+    -26.01592,
+    -57.80956,
+    -26.01592
+],
+  "geometry": {"coordinates":[-57.80956,-26.01592],"type":"Point"}
+}

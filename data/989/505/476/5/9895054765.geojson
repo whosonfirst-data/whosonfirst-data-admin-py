@@ -1,0 +1,74 @@
+{
+  "id": 9895054765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.39729,-24.39027,-56.39729,-24.39027",
+    "geom:latitude":-24.39027,
+    "geom:longitude":-56.39729,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11722167: name \"Compa\u00f1\u00eda San Jos\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11722167"
+        },
+        {
+            "citation":"GeoNames populated place 11722167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11722167"
+        },
+        {
+            "citation":"GeoNames populated place 11722167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11722167"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692489 (Guajayvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11722167
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0da0711bcf7f90abef38da0bf0c7863f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692489,
+            "locality_id":9895054765,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895054765,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Jos\u00e9",
+    "wof:parent_id":1108692489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.39729,
+    -24.39027,
+    -56.39729,
+    -24.39027
+],
+  "geometry": {"coordinates":[-56.39729,-24.39027],"type":"Point"}
+}

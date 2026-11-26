@@ -1,0 +1,74 @@
+{
+  "id": 9895053913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.66589,-24.15328,-54.66589,-24.15328",
+    "geom:latitude":-24.15328,
+    "geom:longitude":-54.66589,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11674287: name \"Puente Kyjha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11674287"
+        },
+        {
+            "citation":"GeoNames populated place 11674287: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11674287"
+        },
+        {
+            "citation":"GeoNames populated place 11674287: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11674287"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692463 (Francisco Caballero Alvarez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676719,
+        102191577,
+        1108692463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11674287
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"83b5a0c09f61d0dfa1b3b829263ceea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692463,
+            "locality_id":9895053913,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":9895053913,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puente Kyjha",
+    "wof:parent_id":1108692463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.66589,
+    -24.15328,
+    -54.66589,
+    -24.15328
+],
+  "geometry": {"coordinates":[-54.66589,-24.15328],"type":"Point"}
+}

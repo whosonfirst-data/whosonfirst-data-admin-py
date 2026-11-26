@@ -1,0 +1,74 @@
+{
+  "id": 9895055286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.70283,-27.05425,-55.70283,-27.05425",
+    "geom:latitude":-27.05425,
+    "geom:longitude":-55.70283,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743168: name \"Colonia Hohenau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743168"
+        },
+        {
+            "citation":"GeoNames populated place 11743168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743168"
+        },
+        {
+            "citation":"GeoNames populated place 11743168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743168"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204307 (Jesus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421204307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743168
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a1ec6d600de8a54577fb5fc3e1a520a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204307,
+            "locality_id":9895055286,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055286,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Hohenau",
+    "wof:parent_id":421204307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.70283,
+    -27.05425,
+    -55.70283,
+    -27.05425
+],
+  "geometry": {"coordinates":[-55.70283,-27.05425],"type":"Point"}
+}

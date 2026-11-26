@@ -1,0 +1,74 @@
+{
+  "id": 9895056001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.63006,-25.28652,-55.63006,-25.28652",
+    "geom:latitude":-25.28652,
+    "geom:longitude":-55.63006,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767612: name \"Blumengard Campo Seis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767612"
+        },
+        {
+            "citation":"GeoNames populated place 11767612: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767612"
+        },
+        {
+            "citation":"GeoNames populated place 11767612: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767612"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692645 (J Eulogio Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767612
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8d8fe564f0d16cc869c3d0dd9f49d699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":9895056001,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056001,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Blumengard Campo Seis",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.63006,
+    -25.28652,
+    -55.63006,
+    -25.28652
+],
+  "geometry": {"coordinates":[-55.63006,-25.28652],"type":"Point"}
+}

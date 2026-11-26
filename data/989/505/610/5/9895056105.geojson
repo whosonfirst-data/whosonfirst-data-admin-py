@@ -1,0 +1,74 @@
+{
+  "id": 9895056105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.2288,-25.50647,-55.2288,-25.50647",
+    "geom:latitude":-25.50647,
+    "geom:longitude":-55.2288,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770087: name \"La Silva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770087"
+        },
+        {
+            "citation":"GeoNames populated place 11770087: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770087"
+        },
+        {
+            "citation":"GeoNames populated place 11770087: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770087"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692551 (Dr. Juan Leon Mallorquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770087
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8ccb304e2b2af2a2b1dceae351749b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692551,
+            "locality_id":9895056105,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895056105,
+    "wof:lastmodified":1795734962,
+    "wof:name":"La Silva",
+    "wof:parent_id":1108692551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.2288,
+    -25.50647,
+    -55.2288,
+    -25.50647
+],
+  "geometry": {"coordinates":[-55.2288,-25.50647],"type":"Point"}
+}

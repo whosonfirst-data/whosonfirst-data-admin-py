@@ -1,0 +1,74 @@
+{
+  "id": 9895056361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.98621,-23.59927,-55.98621,-23.59927",
+    "geom:latitude":-23.59927,
+    "geom:longitude":-55.98621,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173969: name \"Karapa\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173969"
+        },
+        {
+            "citation":"GeoNames populated place 12173969: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173969"
+        },
+        {
+            "citation":"GeoNames populated place 12173969: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173969"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692445 (Capitan Bado), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676701,
+        102191577,
+        1108692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173969
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3c8bc728620fa6607392536cfa8a0eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692445,
+            "locality_id":9895056361,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":9895056361,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Karapa\u00ed",
+    "wof:parent_id":1108692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.98621,
+    -23.59927,
+    -55.98621,
+    -23.59927
+],
+  "geometry": {"coordinates":[-55.98621,-23.59927],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.84019,-27.05364,-57.84019,-27.05364",
+    "geom:latitude":-27.05364,
+    "geom:longitude":-57.84019,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713750: name \"Compa\u00f1\u00eda Guabich\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713750"
+        },
+        {
+            "citation":"GeoNames populated place 11713750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713750"
+        },
+        {
+            "citation":"GeoNames populated place 11713750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692805 (Guazu Cua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713750
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9c9a04e05ec03ecd6d0b2b815b50cbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692805,
+            "locality_id":9895054352,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054352,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Guabich\u00fa",
+    "wof:parent_id":1108692805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.84019,
+    -27.05364,
+    -57.84019,
+    -27.05364
+],
+  "geometry": {"coordinates":[-57.84019,-27.05364],"type":"Point"}
+}

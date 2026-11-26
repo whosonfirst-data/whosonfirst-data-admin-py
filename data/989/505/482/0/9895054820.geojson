@@ -1,0 +1,74 @@
+{
+  "id": 9895054820,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.26095,-25.87816,-57.26095,-25.87816",
+    "geom:latitude":-25.87816,
+    "geom:longitude":-57.26095,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11723482: name \"Mbocayaty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11723482"
+        },
+        {
+            "citation":"GeoNames populated place 11723482: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11723482"
+        },
+        {
+            "citation":"GeoNames populated place 11723482: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11723482"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692725 (San Roque Gonzalez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11723482
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"237393eaadb8a24471d0b5eeae5b1fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692725,
+            "locality_id":9895054820,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054820,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mbocayaty",
+    "wof:parent_id":1108692725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.26095,
+    -25.87816,
+    -57.26095,
+    -25.87816
+],
+  "geometry": {"coordinates":[-57.26095,-25.87816],"type":"Point"}
+}

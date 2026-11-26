@@ -1,0 +1,74 @@
+{
+  "id": 9895055504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.03282,-26.74197,-55.03282,-26.74197",
+    "geom:latitude":-26.74197,
+    "geom:longitude":-55.03282,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11761900: name \"Rafael Monz\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11761900"
+        },
+        {
+            "citation":"GeoNames populated place 11761900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11761900"
+        },
+        {
+            "citation":"GeoNames populated place 11761900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11761900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692479 (Natalio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11761900
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a24684bb5d95db14406f5358bbcf2517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692479,
+            "locality_id":9895055504,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055504,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Rafael Monz\u00f3n",
+    "wof:parent_id":1108692479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.03282,
+    -26.74197,
+    -55.03282,
+    -26.74197
+],
+  "geometry": {"coordinates":[-55.03282,-26.74197],"type":"Point"}
+}

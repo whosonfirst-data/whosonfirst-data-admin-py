@@ -1,0 +1,74 @@
+{
+  "id": 9895055181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.57265,-24.91396,-56.57265,-24.91396",
+    "geom:latitude":-24.91396,
+    "geom:longitude":-56.57265,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11734193: name \"San Miguel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11734193"
+        },
+        {
+            "citation":"GeoNames populated place 11734193: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11734193"
+        },
+        {
+            "citation":"GeoNames populated place 11734193: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11734193"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692827 (Union), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11734193
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"202e78ba29de54e789a54bd5da54219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692827,
+            "locality_id":9895055181,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055181,
+    "wof:lastmodified":1795734962,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108692827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.57265,
+    -24.91396,
+    -56.57265,
+    -24.91396
+],
+  "geometry": {"coordinates":[-56.57265,-24.91396],"type":"Point"}
+}

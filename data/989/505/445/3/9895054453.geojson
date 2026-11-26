@@ -1,0 +1,74 @@
+{
+  "id": 9895054453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.03921,-26.66842,-58.03921,-26.66842",
+    "geom:latitude":-26.66842,
+    "geom:longitude":-58.03921,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11715283: name \"Compa\u00f1\u00eda Camb\u00e1 Cua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11715283"
+        },
+        {
+            "citation":"GeoNames populated place 11715283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11715283"
+        },
+        {
+            "citation":"GeoNames populated place 11715283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11715283"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692785 (San Juan Bautista De \u00d1eembucu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11715283
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e939a959709ecfe65b621a9254f7cd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692785,
+            "locality_id":9895054453,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054453,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Camb\u00e1 Cua",
+    "wof:parent_id":1108692785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.03921,
+    -26.66842,
+    -58.03921,
+    -26.66842
+],
+  "geometry": {"coordinates":[-58.03921,-26.66842],"type":"Point"}
+}

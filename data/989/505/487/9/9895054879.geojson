@@ -1,0 +1,74 @@
+{
+  "id": 9895054879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35046,-25.47898,-57.35046,-25.47898",
+    "geom:latitude":-25.47898,
+    "geom:longitude":-57.35046,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11730742: name \"Caraguatayty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11730742"
+        },
+        {
+            "citation":"GeoNames populated place 11730742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11730742"
+        },
+        {
+            "citation":"GeoNames populated place 11730742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11730742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692591 (Ita), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        1108692591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11730742
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"eaf0c24cba9b9d80c7b44d8e70b8ff83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692591,
+            "locality_id":9895054879,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054879,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Caraguatayty",
+    "wof:parent_id":1108692591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35046,
+    -25.47898,
+    -57.35046,
+    -25.47898
+],
+  "geometry": {"coordinates":[-57.35046,-25.47898],"type":"Point"}
+}

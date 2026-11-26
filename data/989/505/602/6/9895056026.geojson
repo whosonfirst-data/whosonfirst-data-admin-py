@@ -1,0 +1,74 @@
+{
+  "id": 9895056026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.80968,-25.26742,-55.80968,-25.26742",
+    "geom:latitude":-25.26742,
+    "geom:longitude":-55.80968,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767784: name \"Potrero Cai-B\u00f3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767784"
+        },
+        {
+            "citation":"GeoNames populated place 11767784: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767784"
+        },
+        {
+            "citation":"GeoNames populated place 11767784: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767784"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692631 (Dr. Juan Manuel Frutos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767784
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"931d3fea3c4a9515dedbd09440b39432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692631,
+            "locality_id":9895056026,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056026,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Potrero Cai-B\u00f3",
+    "wof:parent_id":1108692631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.80968,
+    -25.26742,
+    -55.80968,
+    -25.26742
+],
+  "geometry": {"coordinates":[-55.80968,-25.26742],"type":"Point"}
+}

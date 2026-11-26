@@ -1,0 +1,74 @@
+{
+  "id": 9895056209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.41007,-25.81495,-56.41007,-25.81495",
+    "geom:latitude":-25.81495,
+    "geom:longitude":-56.41007,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11772508: name \"Ca\u00f1ada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11772508"
+        },
+        {
+            "citation":"GeoNames populated place 11772508: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11772508"
+        },
+        {
+            "citation":"GeoNames populated place 11772508: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11772508"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421173301 (Villarrica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        421173301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11772508
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4d6a04977e06ee49d3cb3a7e9c9fc62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173301,
+            "locality_id":9895056209,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056209,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ca\u00f1ada",
+    "wof:parent_id":421173301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.41007,
+    -25.81495,
+    -56.41007,
+    -25.81495
+],
+  "geometry": {"coordinates":[-56.41007,-25.81495],"type":"Point"}
+}

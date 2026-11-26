@@ -1,0 +1,74 @@
+{
+  "id": 9895055732,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.54899,-23.68152,-56.54899,-23.68152",
+    "geom:latitude":-23.68152,
+    "geom:longitude":-56.54899,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11763462: name \"Retiro Mataburro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11763462"
+        },
+        {
+            "citation":"GeoNames populated place 11763462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11763462"
+        },
+        {
+            "citation":"GeoNames populated place 11763462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11763462"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692825 (Tacuati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11763462
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c203ef1aa0415f9d1f365a68079be161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692825,
+            "locality_id":9895055732,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055732,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Retiro Mataburro",
+    "wof:parent_id":1108692825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.54899,
+    -23.68152,
+    -56.54899,
+    -23.68152
+],
+  "geometry": {"coordinates":[-56.54899,-23.68152],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.73074,-24.72956,-56.73074,-24.72956",
+    "geom:latitude":-24.72956,
+    "geom:longitude":-56.73074,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11732287: name \"Puesto N\u00fa\u00f1ez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11732287"
+        },
+        {
+            "citation":"GeoNames populated place 11732287: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11732287"
+        },
+        {
+            "citation":"GeoNames populated place 11732287: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11732287"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692829 (25 De Diciembre), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11732287
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4dd28278d8b2996e98cf26547e518168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692829,
+            "locality_id":9895055128,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055128,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puesto N\u00fa\u00f1ez",
+    "wof:parent_id":1108692829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.73074,
+    -24.72956,
+    -56.73074,
+    -24.72956
+],
+  "geometry": {"coordinates":[-56.73074,-24.72956],"type":"Point"}
+}

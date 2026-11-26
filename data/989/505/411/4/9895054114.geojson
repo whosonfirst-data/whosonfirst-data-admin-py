@@ -1,0 +1,74 @@
+{
+  "id": 9895054114,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.81987,-27.38748,-56.81987,-27.38748",
+    "geom:latitude":-27.38748,
+    "geom:longitude":-56.81987,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712407: name \"Puerto Tur\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712407"
+        },
+        {
+            "citation":"GeoNames populated place 11712407: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712407"
+        },
+        {
+            "citation":"GeoNames populated place 11712407: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712407"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204309 (Ayolas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421204309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712407
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"024c794957c6a682538503b3898a0389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204309,
+            "locality_id":9895054114,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054114,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puerto Tur\u00ed",
+    "wof:parent_id":421204309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.81987,
+    -27.38748,
+    -56.81987,
+    -27.38748
+],
+  "geometry": {"coordinates":[-56.81987,-27.38748],"type":"Point"}
+}

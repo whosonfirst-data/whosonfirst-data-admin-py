@@ -1,0 +1,74 @@
+{
+  "id": 9895054718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.87764,-25.74673,-56.87764,-25.74673",
+    "geom:latitude":-25.74673,
+    "geom:longitude":-56.87764,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11720195: name \"Potrero Puc\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11720195"
+        },
+        {
+            "citation":"GeoNames populated place 11720195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11720195"
+        },
+        {
+            "citation":"GeoNames populated place 11720195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11720195"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692709 (General Bernardino Caballero), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11720195
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a2f27a9aae0f246f2ad840a262d0e5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692709,
+            "locality_id":9895054718,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054718,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Potrero Puc\u00fa",
+    "wof:parent_id":1108692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.87764,
+    -25.74673,
+    -56.87764,
+    -25.74673
+],
+  "geometry": {"coordinates":[-56.87764,-25.74673],"type":"Point"}
+}

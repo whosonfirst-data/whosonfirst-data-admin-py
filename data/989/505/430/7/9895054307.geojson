@@ -1,0 +1,74 @@
+{
+  "id": 9895054307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.5535,-27.20694,-58.5535,-27.20694",
+    "geom:latitude":-27.20694,
+    "geom:longitude":-58.5535,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713355: name \"Paso Sidra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713355"
+        },
+        {
+            "citation":"GeoNames populated place 11713355: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713355"
+        },
+        {
+            "citation":"GeoNames populated place 11713355: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713355"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170011 (Paso De Patria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        421170011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713355
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ed52b8d32b86c237329785b0c1473ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170011,
+            "locality_id":9895054307,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054307,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Paso Sidra",
+    "wof:parent_id":421170011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.5535,
+    -27.20694,
+    -58.5535,
+    -27.20694
+],
+  "geometry": {"coordinates":[-58.5535,-27.20694],"type":"Point"}
+}

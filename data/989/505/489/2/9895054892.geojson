@@ -1,0 +1,74 @@
+{
+  "id": 9895054892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.26326,-25.37162,-57.26326,-25.37162",
+    "geom:latitude":-25.37162,
+    "geom:longitude":-57.26326,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11730771: name \"Compa\u00f1\u00eda Puente Ac\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11730771"
+        },
+        {
+            "citation":"GeoNames populated place 11730771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11730771"
+        },
+        {
+            "citation":"GeoNames populated place 11730771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11730771"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170009 (Ypacarai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        421170009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11730771
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1f5ff9304ab74e72514fbe4aed2d9c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170009,
+            "locality_id":9895054892,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054892,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Puente Ac\u00e1",
+    "wof:parent_id":421170009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.26326,
+    -25.37162,
+    -57.26326,
+    -25.37162
+],
+  "geometry": {"coordinates":[-57.26326,-25.37162],"type":"Point"}
+}

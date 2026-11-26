@@ -1,0 +1,74 @@
+{
+  "id": 9895055914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.38545,-25.13042,-56.38545,-25.13042",
+    "geom:latitude":-25.13042,
+    "geom:longitude":-56.38545,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11766974: name \"Peguaj\u00f3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11766974"
+        },
+        {
+            "citation":"GeoNames populated place 11766974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11766974"
+        },
+        {
+            "citation":"GeoNames populated place 11766974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11766974"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692623 (Carayao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11766974
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"34b20f3f31553b5ea16bbab6babec2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692623,
+            "locality_id":9895055914,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055914,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Peguaj\u00f3",
+    "wof:parent_id":1108692623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.38545,
+    -25.13042,
+    -56.38545,
+    -25.13042
+],
+  "geometry": {"coordinates":[-56.38545,-25.13042],"type":"Point"}
+}

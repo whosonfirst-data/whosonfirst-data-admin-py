@@ -1,0 +1,74 @@
+{
+  "id": 9895055604,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.57685,-24.06183,-56.57685,-24.06183",
+    "geom:latitude":-24.06183,
+    "geom:longitude":-56.57685,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11762310: name \"Naranja Jha\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11762310"
+        },
+        {
+            "citation":"GeoNames populated place 11762310: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11762310"
+        },
+        {
+            "citation":"GeoNames populated place 11762310: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11762310"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692767 (Chore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11762310
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e3d96a57d0af6db3ca19ef6db4ae17ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692767,
+            "locality_id":9895055604,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055604,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Naranja Jha\u00ed",
+    "wof:parent_id":1108692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.57685,
+    -24.06183,
+    -56.57685,
+    -24.06183
+],
+  "geometry": {"coordinates":[-56.57685,-24.06183],"type":"Point"}
+}

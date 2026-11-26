@@ -1,0 +1,74 @@
+{
+  "id": 9895054738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.92228,-25.61261,-56.92228,-25.61261",
+    "geom:latitude":-25.61261,
+    "geom:longitude":-56.92228,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721912: name \"Potrero Jard\u00edn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721912"
+        },
+        {
+            "citation":"GeoNames populated place 11721912: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721912"
+        },
+        {
+            "citation":"GeoNames populated place 11721912: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721912"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201649 (Valenzuela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421201649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721912
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7aac382afb7ce3622fe1e6d5ccc2f9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201649,
+            "locality_id":9895054738,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054738,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Potrero Jard\u00edn",
+    "wof:parent_id":421201649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.92228,
+    -25.61261,
+    -56.92228,
+    -25.61261
+],
+  "geometry": {"coordinates":[-56.92228,-25.61261],"type":"Point"}
+}

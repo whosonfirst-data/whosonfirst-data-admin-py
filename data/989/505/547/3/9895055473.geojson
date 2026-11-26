@@ -1,0 +1,74 @@
+{
+  "id": 9895055473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.79554,-24.31656,-56.79554,-24.31656",
+    "geom:latitude":-24.31656,
+    "geom:longitude":-56.79554,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744872: name \"Retiro Lomas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744872"
+        },
+        {
+            "citation":"GeoNames populated place 11744872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744872"
+        },
+        {
+            "citation":"GeoNames populated place 11744872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744872"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692769 (General Elizardo Aquino), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744872
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"894c76c5572c9c84e1e53a2bfc2b5f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692769,
+            "locality_id":9895055473,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055473,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Retiro Lomas",
+    "wof:parent_id":1108692769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.79554,
+    -24.31656,
+    -56.79554,
+    -24.31656
+],
+  "geometry": {"coordinates":[-56.79554,-24.31656],"type":"Point"}
+}

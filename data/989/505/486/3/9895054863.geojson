@@ -1,0 +1,74 @@
+{
+  "id": 9895054863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.45796,-25.37771,-57.45796,-25.37771",
+    "geom:latitude":-25.37771,
+    "geom:longitude":-57.45796,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11730712: name \"Yataity\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11730712"
+        },
+        {
+            "citation":"GeoNames populated place 11730712: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11730712"
+        },
+        {
+            "citation":"GeoNames populated place 11730712: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11730712"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421194567 (Capiata), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        421194567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11730712
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3b9c8bade29cab8a2c97a28d94e9814a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421194567,
+            "locality_id":9895054863,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054863,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Yataity",
+    "wof:parent_id":421194567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.45796,
+    -25.37771,
+    -57.45796,
+    -25.37771
+],
+  "geometry": {"coordinates":[-57.45796,-25.37771],"type":"Point"}
+}

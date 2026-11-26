@@ -1,0 +1,74 @@
+{
+  "id": 9895055721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.28763,-23.96624,-56.28763,-23.96624",
+    "geom:latitude":-23.96624,
+    "geom:longitude":-56.28763,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11763432: name \"Compa\u00f1\u00eda San Miguel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11763432"
+        },
+        {
+            "citation":"GeoNames populated place 11763432: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11763432"
+        },
+        {
+            "citation":"GeoNames populated place 11763432: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11763432"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692485 (General Resquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11763432
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"70afe3cc7d8b9d9a247a29dca5596e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692485,
+            "locality_id":9895055721,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055721,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Miguel",
+    "wof:parent_id":1108692485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.28763,
+    -23.96624,
+    -56.28763,
+    -23.96624
+],
+  "geometry": {"coordinates":[-56.28763,-23.96624],"type":"Point"}
+}

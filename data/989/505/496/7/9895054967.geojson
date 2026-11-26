@@ -1,0 +1,74 @@
+{
+  "id": 9895054967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.80597,-25.38624,-56.80597,-25.38624",
+    "geom:latitude":-25.38624,
+    "geom:longitude":-56.80597,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731583: name \"Colonia Paso Tranquera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731583"
+        },
+        {
+            "citation":"GeoNames populated place 11731583: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731583"
+        },
+        {
+            "citation":"GeoNames populated place 11731583: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731583"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692525 (Santa Elena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731583
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"776d98452c36b4478dbfdbf53048ab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692525,
+            "locality_id":9895054967,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054967,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Paso Tranquera",
+    "wof:parent_id":1108692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.80597,
+    -25.38624,
+    -56.80597,
+    -25.38624
+],
+  "geometry": {"coordinates":[-56.80597,-25.38624],"type":"Point"}
+}

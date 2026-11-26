@@ -1,0 +1,74 @@
+{
+  "id": 9895054074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.6455,-27.35513,-56.6455,-27.35513",
+    "geom:latitude":-27.35513,
+    "geom:longitude":-56.6455,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11686346: name \"Potrero Bai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11686346"
+        },
+        {
+            "citation":"GeoNames populated place 11686346: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11686346"
+        },
+        {
+            "citation":"GeoNames populated place 11686346: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11686346"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171423 (San Cosme Y Damian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421171423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11686346
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1b4d306824bce44c08d82a34a8897fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171423,
+            "locality_id":9895054074,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895054074,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Potrero Bai",
+    "wof:parent_id":421171423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.6455,
+    -27.35513,
+    -56.6455,
+    -27.35513
+],
+  "geometry": {"coordinates":[-56.6455,-27.35513],"type":"Point"}
+}

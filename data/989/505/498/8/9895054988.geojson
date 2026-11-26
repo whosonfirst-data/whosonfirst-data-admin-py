@@ -1,0 +1,74 @@
+{
+  "id": 9895054988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.40813,-24.81694,-56.40813,-24.81694",
+    "geom:latitude":-24.81694,
+    "geom:longitude":-56.40813,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731615: name \"Jaula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731615"
+        },
+        {
+            "citation":"GeoNames populated place 11731615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731615"
+        },
+        {
+            "citation":"GeoNames populated place 11731615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731615"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692487 (Yataity Del Norte), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731615
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"faf6c72a7a752361d79a3cbf75774986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692487,
+            "locality_id":9895054988,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895054988,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Jaula",
+    "wof:parent_id":1108692487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.40813,
+    -24.81694,
+    -56.40813,
+    -24.81694
+],
+  "geometry": {"coordinates":[-56.40813,-24.81694],"type":"Point"}
+}

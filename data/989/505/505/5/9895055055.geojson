@@ -1,0 +1,74 @@
+{
+  "id": 9895055055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.1344,-25.44157,-57.1344,-25.44157",
+    "geom:latitude":-25.44157,
+    "geom:longitude":-57.1344,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11732077: name \"Compa\u00f1\u00eda Itaybu-Guaz\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11732077"
+        },
+        {
+            "citation":"GeoNames populated place 11732077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11732077"
+        },
+        {
+            "citation":"GeoNames populated place 11732077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11732077"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172673 (Caacupe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421172673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11732077
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e9774e9e30703a6ca461619ca337eb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421172673,
+            "locality_id":9895055055,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055055,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Itaybu-Guaz\u00fa",
+    "wof:parent_id":421172673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.1344,
+    -25.44157,
+    -57.1344,
+    -25.44157
+],
+  "geometry": {"coordinates":[-57.1344,-25.44157],"type":"Point"}
+}

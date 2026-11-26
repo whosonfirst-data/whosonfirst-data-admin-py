@@ -1,0 +1,74 @@
+{
+  "id": 9895053940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.76738,-27.41417,-55.76738,-27.41417",
+    "geom:latitude":-27.41417,
+    "geom:longitude":-55.76738,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11681934: name \"Compa\u00f1\u00eda Campichuelo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11681934"
+        },
+        {
+            "citation":"GeoNames populated place 11681934: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11681934"
+        },
+        {
+            "citation":"GeoNames populated place 11681934: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11681934"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692865 (Cambyreta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11681934
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"54c56ff6921d8d7187cf2277d72e4c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692865,
+            "locality_id":9895053940,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053940,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Campichuelo",
+    "wof:parent_id":1108692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.76738,
+    -27.41417,
+    -55.76738,
+    -27.41417
+],
+  "geometry": {"coordinates":[-55.76738,-27.41417],"type":"Point"}
+}

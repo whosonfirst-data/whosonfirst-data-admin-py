@@ -1,0 +1,74 @@
+{
+  "id": 9895053798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.06599,-26.30433,-56.06599,-26.30433",
+    "geom:latitude":-26.30433,
+    "geom:longitude":-56.06599,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437100: name \"San Francisco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437100"
+        },
+        {
+            "citation":"GeoNames populated place 3437100: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437100"
+        },
+        {
+            "citation":"GeoNames populated place 3437100: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437100"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692851 (San Juan Nepomuceno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437100
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b9a6a026cd544dab08f7d88e45b8d62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692851,
+            "locality_id":9895053798,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895053798,
+    "wof:lastmodified":1795734962,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1108692851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.06599,
+    -26.30433,
+    -56.06599,
+    -26.30433
+],
+  "geometry": {"coordinates":[-56.06599,-26.30433],"type":"Point"}
+}

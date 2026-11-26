@@ -1,0 +1,74 @@
+{
+  "id": 9895054233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.12313,-26.90326,-57.12313,-26.90326",
+    "geom:latitude":-26.90326,
+    "geom:longitude":-57.12313,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712871: name \"Compa\u00f1\u00eda San Benito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712871"
+        },
+        {
+            "citation":"GeoNames populated place 11712871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712871"
+        },
+        {
+            "citation":"GeoNames populated place 11712871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712871"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170017 (San Ignacio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421170017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712871
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"52b41de8731998a60d277457d7660f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170017,
+            "locality_id":9895054233,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054233,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Benito",
+    "wof:parent_id":421170017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.12313,
+    -26.90326,
+    -57.12313,
+    -26.90326
+],
+  "geometry": {"coordinates":[-57.12313,-26.90326],"type":"Point"}
+}

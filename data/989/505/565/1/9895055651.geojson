@@ -1,0 +1,74 @@
+{
+  "id": 9895055651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.78438,-24.62066,-56.78438,-24.62066",
+    "geom:latitude":-24.62066,
+    "geom:longitude":-56.78438,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11762921: name \"Colonia N\u00famero Siete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11762921"
+        },
+        {
+            "citation":"GeoNames populated place 11762921: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11762921"
+        },
+        {
+            "citation":"GeoNames populated place 11762921: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11762921"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692771 (Itacurubi Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11762921
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4c3b215fd08f43efd42d01f2af851ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692771,
+            "locality_id":9895055651,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055651,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia N\u00famero Siete",
+    "wof:parent_id":1108692771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.78438,
+    -24.62066,
+    -56.78438,
+    -24.62066
+],
+  "geometry": {"coordinates":[-56.78438,-24.62066],"type":"Point"}
+}

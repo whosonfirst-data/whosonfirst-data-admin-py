@@ -1,0 +1,74 @@
+{
+  "id": 9895055964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.28887,-23.34123,-60.28887,-23.34123",
+    "geom:latitude":-23.34123,
+    "geom:longitude":-60.28887,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767449: name \"Estancia San Lucas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767449"
+        },
+        {
+            "citation":"GeoNames populated place 11767449: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767449"
+        },
+        {
+            "citation":"GeoNames populated place 11767449: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767449"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171777 (Mariscal Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676659,
+        102191577,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767449
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"93637d732a4a9fed65750f13fd3eb736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":9895055964,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":9895055964,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia San Lucas",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.28887,
+    -23.34123,
+    -60.28887,
+    -23.34123
+],
+  "geometry": {"coordinates":[-60.28887,-23.34123],"type":"Point"}
+}

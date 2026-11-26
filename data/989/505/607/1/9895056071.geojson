@@ -1,0 +1,74 @@
+{
+  "id": 9895056071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.29332,-25.40618,-55.29332,-25.40618",
+    "geom:latitude":-25.40618,
+    "geom:longitude":-55.29332,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11769516: name \"San Agust\u00edn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11769516"
+        },
+        {
+            "citation":"GeoNames populated place 11769516: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11769516"
+        },
+        {
+            "citation":"GeoNames populated place 11769516: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11769516"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692551 (Dr. Juan Leon Mallorquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11769516
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4009fc6b5ef1d63f25dc6802b9104c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692551,
+            "locality_id":9895056071,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895056071,
+    "wof:lastmodified":1795734962,
+    "wof:name":"San Agust\u00edn",
+    "wof:parent_id":1108692551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.29332,
+    -25.40618,
+    -55.29332,
+    -25.40618
+],
+  "geometry": {"coordinates":[-55.29332,-25.40618],"type":"Point"}
+}

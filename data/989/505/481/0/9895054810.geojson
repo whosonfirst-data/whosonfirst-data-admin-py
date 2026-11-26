@@ -1,0 +1,74 @@
+{
+  "id": 9895054810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.81051,-25.76397,-56.81051,-25.76397",
+    "geom:latitude":-25.76397,
+    "geom:longitude":-56.81051,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11723462: name \"Cerro Guy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11723462"
+        },
+        {
+            "citation":"GeoNames populated place 11723462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11723462"
+        },
+        {
+            "citation":"GeoNames populated place 11723462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11723462"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692735 (Yvytimi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11723462
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"85bacaec3c4b3a071728fb19aeae3235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692735,
+            "locality_id":9895054810,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054810,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Cerro Guy",
+    "wof:parent_id":1108692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.81051,
+    -25.76397,
+    -56.81051,
+    -25.76397
+],
+  "geometry": {"coordinates":[-56.81051,-25.76397],"type":"Point"}
+}

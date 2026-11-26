@@ -1,0 +1,74 @@
+{
+  "id": 9895056220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.20515,-25.83972,-56.20515,-25.83972",
+    "geom:latitude":-25.83972,
+    "geom:longitude":-56.20515,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773055: name \"It\u00e1 Azul\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773055"
+        },
+        {
+            "citation":"GeoNames populated place 11773055: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773055"
+        },
+        {
+            "citation":"GeoNames populated place 11773055: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773055"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172933 (General Eugenio A. Garay), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        421172933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773055
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"6ce877c4c17cf527e70d82455703ba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421172933,
+            "locality_id":9895056220,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056220,
+    "wof:lastmodified":1795734962,
+    "wof:name":"It\u00e1 Azul",
+    "wof:parent_id":421172933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.20515,
+    -25.83972,
+    -56.20515,
+    -25.83972
+],
+  "geometry": {"coordinates":[-56.20515,-25.83972],"type":"Point"}
+}

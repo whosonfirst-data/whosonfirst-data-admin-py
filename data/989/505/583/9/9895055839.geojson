@@ -1,0 +1,74 @@
+{
+  "id": 9895055839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.16165,-24.98228,-57.16165,-24.98228",
+    "geom:latitude":-24.98228,
+    "geom:longitude":-57.16165,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11765730: name \"Puerto Ca\u00f1ete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11765730"
+        },
+        {
+            "citation":"GeoNames populated place 11765730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11765730"
+        },
+        {
+            "citation":"GeoNames populated place 11765730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11765730"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692501 (Arroyos Y Esteros), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11765730
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"83112e9c8df606a6b4be919592aacd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692501,
+            "locality_id":9895055839,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055839,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puerto Ca\u00f1ete",
+    "wof:parent_id":1108692501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.16165,
+    -24.98228,
+    -57.16165,
+    -24.98228
+],
+  "geometry": {"coordinates":[-57.16165,-24.98228],"type":"Point"}
+}

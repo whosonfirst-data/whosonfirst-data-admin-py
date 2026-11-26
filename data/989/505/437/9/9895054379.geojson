@@ -1,0 +1,74 @@
+{
+  "id": 9895054379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.02041,-26.94599,-58.02041,-26.94599",
+    "geom:latitude":-26.94599,
+    "geom:longitude":-58.02041,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11714709: name \"Establecimiento Alonso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11714709"
+        },
+        {
+            "citation":"GeoNames populated place 11714709: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11714709"
+        },
+        {
+            "citation":"GeoNames populated place 11714709: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11714709"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692805 (Guazu Cua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11714709
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"82f8d3e01b6f2da65e0d527c9a433e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692805,
+            "locality_id":9895054379,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054379,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Establecimiento Alonso",
+    "wof:parent_id":1108692805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.02041,
+    -26.94599,
+    -58.02041,
+    -26.94599
+],
+  "geometry": {"coordinates":[-58.02041,-26.94599],"type":"Point"}
+}

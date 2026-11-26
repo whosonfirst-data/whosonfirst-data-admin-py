@@ -1,0 +1,74 @@
+{
+  "id": 9895056113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.6605,-25.31993,-54.6605,-25.31993",
+    "geom:latitude":-25.31993,
+    "geom:longitude":-54.6605,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770173: name \"Romero Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770173"
+        },
+        {
+            "citation":"GeoNames populated place 11770173: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770173"
+        },
+        {
+            "citation":"GeoNames populated place 11770173: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770173"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421193629 (Hernandarias), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        421193629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770173
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8202080eb5a1f1bfcabc15045df6de59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421193629,
+            "locality_id":9895056113,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895056113,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Romero Cu\u00e9",
+    "wof:parent_id":421193629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.6605,
+    -25.31993,
+    -54.6605,
+    -25.31993
+],
+  "geometry": {"coordinates":[-54.6605,-25.31993],"type":"Point"}
+}

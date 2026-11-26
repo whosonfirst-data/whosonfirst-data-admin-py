@@ -1,0 +1,74 @@
+{
+  "id": 9895054938,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.91336,-25.45671,-56.91336,-25.45671",
+    "geom:latitude":-25.45671,
+    "geom:longitude":-56.91336,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731543: name \"Compa\u00f1\u00eda Potrero Angelito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731543"
+        },
+        {
+            "citation":"GeoNames populated place 11731543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731543"
+        },
+        {
+            "citation":"GeoNames populated place 11731543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731543"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692511 (Itacurubi De La Cordillera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731543
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1cdc3914c22670d314660eb951afc30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692511,
+            "locality_id":9895054938,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054938,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Potrero Angelito",
+    "wof:parent_id":1108692511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.91336,
+    -25.45671,
+    -56.91336,
+    -25.45671
+],
+  "geometry": {"coordinates":[-56.91336,-25.45671],"type":"Point"}
+}

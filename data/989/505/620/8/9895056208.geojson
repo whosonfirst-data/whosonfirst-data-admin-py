@@ -1,0 +1,74 @@
+{
+  "id": 9895056208,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.37237,-25.83027,-56.37237,-25.83027",
+    "geom:latitude":-25.83027,
+    "geom:longitude":-56.37237,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11772507: name \"Do\u00f1a Juana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11772507"
+        },
+        {
+            "citation":"GeoNames populated place 11772507: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11772507"
+        },
+        {
+            "citation":"GeoNames populated place 11772507: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11772507"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421173301 (Villarrica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        421173301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11772507
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5df44b95bf33dc530857f14d8de0cf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173301,
+            "locality_id":9895056208,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056208,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Do\u00f1a Juana",
+    "wof:parent_id":421173301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.37237,
+    -25.83027,
+    -56.37237,
+    -25.83027
+],
+  "geometry": {"coordinates":[-56.37237,-25.83027],"type":"Point"}
+}

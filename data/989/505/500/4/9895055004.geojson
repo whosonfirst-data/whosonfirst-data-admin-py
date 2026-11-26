@@ -1,0 +1,74 @@
+{
+  "id": 9895055004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.05548,-25.31017,-57.05548,-25.31017",
+    "geom:latitude":-25.31017,
+    "geom:longitude":-57.05548,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731648: name \"Compa\u00f1\u00eda Tacuaty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731648"
+        },
+        {
+            "citation":"GeoNames populated place 11731648: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731648"
+        },
+        {
+            "citation":"GeoNames populated place 11731648: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731648"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421173299 (Tobati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421173299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731648
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e300a3479e092af505434765ed612cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173299,
+            "locality_id":9895055004,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055004,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Tacuaty",
+    "wof:parent_id":421173299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.05548,
+    -25.31017,
+    -57.05548,
+    -25.31017
+],
+  "geometry": {"coordinates":[-57.05548,-25.31017],"type":"Point"}
+}

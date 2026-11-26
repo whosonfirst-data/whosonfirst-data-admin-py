@@ -1,0 +1,74 @@
+{
+  "id": 9895055866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.5855,-25.20874,-55.5855,-25.20874",
+    "geom:latitude":-25.20874,
+    "geom:longitude":-55.5855,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11766340: name \"Compa\u00f1\u00eda Sati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11766340"
+        },
+        {
+            "citation":"GeoNames populated place 11766340: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11766340"
+        },
+        {
+            "citation":"GeoNames populated place 11766340: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11766340"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692649 (Raul Arsenio Oviedo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11766340
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"91c15be569e844911b182f86abb70101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692649,
+            "locality_id":9895055866,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055866,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Sati",
+    "wof:parent_id":1108692649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.5855,
+    -25.20874,
+    -55.5855,
+    -25.20874
+],
+  "geometry": {"coordinates":[-55.5855,-25.20874],"type":"Point"}
+}

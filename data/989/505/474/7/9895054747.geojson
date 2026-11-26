@@ -1,0 +1,74 @@
+{
+  "id": 9895054747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.7946,-25.60382,-56.7946,-25.60382",
+    "geom:latitude":-25.60382,
+    "geom:longitude":-56.7946,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721923: name \"Teniente Lu\u00eds A. Dacak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721923"
+        },
+        {
+            "citation":"GeoNames populated place 11721923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721923"
+        },
+        {
+            "citation":"GeoNames populated place 11721923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201649 (Valenzuela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421201649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721923
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4f545ca3c293a69ee2b24a0913ee7355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201649,
+            "locality_id":9895054747,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054747,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Teniente Lu\u00eds A. Dacak",
+    "wof:parent_id":421201649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.7946,
+    -25.60382,
+    -56.7946,
+    -25.60382
+],
+  "geometry": {"coordinates":[-56.7946,-25.60382],"type":"Point"}
+}

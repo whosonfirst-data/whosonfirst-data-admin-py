@@ -1,0 +1,74 @@
+{
+  "id": 9895053951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.89309,-27.27611,-55.89309,-27.27611",
+    "geom:latitude":-27.27611,
+    "geom:longitude":-55.89309,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11681949: name \"Compa\u00f1\u00eda San Antonio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11681949"
+        },
+        {
+            "citation":"GeoNames populated place 11681949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11681949"
+        },
+        {
+            "citation":"GeoNames populated place 11681949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11681949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692861 (Encarnacion), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11681949
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"27329f39b0e11035115206aa0fcf1fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692861,
+            "locality_id":9895053951,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053951,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Antonio",
+    "wof:parent_id":1108692861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.89309,
+    -27.27611,
+    -55.89309,
+    -27.27611
+],
+  "geometry": {"coordinates":[-55.89309,-27.27611],"type":"Point"}
+}

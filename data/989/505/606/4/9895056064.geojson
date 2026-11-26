@@ -1,0 +1,74 @@
+{
+  "id": 9895056064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.72622,-26.33192,-54.72622,-26.33192",
+    "geom:latitude":-26.33192,
+    "geom:longitude":-54.72622,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11769462: name \"Colonia Mayor Julio Ota\u00f1o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11769462"
+        },
+        {
+            "citation":"GeoNames populated place 11769462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11769462"
+        },
+        {
+            "citation":"GeoNames populated place 11769462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11769462"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692671 (Mayor Ota\u00d1o), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11769462
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8d31791a616741fed9588deb74829298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692671,
+            "locality_id":9895056064,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895056064,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Mayor Julio Ota\u00f1o",
+    "wof:parent_id":1108692671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.72622,
+    -26.33192,
+    -54.72622,
+    -26.33192
+],
+  "geometry": {"coordinates":[-54.72622,-26.33192],"type":"Point"}
+}

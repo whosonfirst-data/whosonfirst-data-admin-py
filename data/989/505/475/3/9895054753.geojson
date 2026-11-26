@@ -1,0 +1,74 @@
+{
+  "id": 9895054753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.36802,-24.27505,-56.36802,-24.27505",
+    "geom:latitude":-24.27505,
+    "geom:longitude":-56.36802,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721932: name \"Colonia Natalicio Vasconcellos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721932"
+        },
+        {
+            "citation":"GeoNames populated place 11721932: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721932"
+        },
+        {
+            "citation":"GeoNames populated place 11721932: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721932"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692499 (Liberacion), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721932
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"09d10dc22daed5f85358c33c3658db0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692499,
+            "locality_id":9895054753,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895054753,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Natalicio Vasconcellos",
+    "wof:parent_id":1108692499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.36802,
+    -24.27505,
+    -56.36802,
+    -24.27505
+],
+  "geometry": {"coordinates":[-56.36802,-24.27505],"type":"Point"}
+}

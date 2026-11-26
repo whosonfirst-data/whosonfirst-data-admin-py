@@ -1,0 +1,74 @@
+{
+  "id": 9895053875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.84468,-25.55482,-54.84468,-25.55482",
+    "geom:latitude":-25.55482,
+    "geom:longitude":-54.84468,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438951: name \"Colonia Puerto Presidente Stroessner\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438951"
+        },
+        {
+            "citation":"GeoNames populated place 3438951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438951"
+        },
+        {
+            "citation":"GeoNames populated place 3438951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438951"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692559 (Minga Guazu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438951
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"513c6f4f17f681e4ac270324febb83f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692559,
+            "locality_id":9895053875,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895053875,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Puerto Presidente Stroessner",
+    "wof:parent_id":1108692559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.84468,
+    -25.55482,
+    -54.84468,
+    -25.55482
+],
+  "geometry": {"coordinates":[-54.84468,-25.55482],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054146,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51001,-26.74404,-56.51001,-26.74404",
+    "geom:latitude":-26.74404,
+    "geom:longitude":-56.51001,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712502: name \"Isla Yuquer\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712502"
+        },
+        {
+            "citation":"GeoNames populated place 11712502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712502"
+        },
+        {
+            "citation":"GeoNames populated place 11712502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712502"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421195025 (Yuty), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        421195025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712502
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"02d3dc981190df90f6880e0384c5ab70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421195025,
+            "locality_id":9895054146,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895054146,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Isla Yuquer\u00ed",
+    "wof:parent_id":421195025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51001,
+    -26.74404,
+    -56.51001,
+    -26.74404
+],
+  "geometry": {"coordinates":[-56.51001,-26.74404],"type":"Point"}
+}

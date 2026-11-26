@@ -1,0 +1,74 @@
+{
+  "id": 9895053872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.19845,-25.3041,-56.19845,-25.3041",
+    "geom:latitude":-25.3041,
+    "geom:longitude":-56.19845,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438899: name \"Colonia Taya\u00f3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438899"
+        },
+        {
+            "citation":"GeoNames populated place 3438899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438899"
+        },
+        {
+            "citation":"GeoNames populated place 3438899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438899"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692647 (R.i. 3 Corrales), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438899
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e94d1a380e1ed5180f82da9e7ebdee9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692647,
+            "locality_id":9895053872,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895053872,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Taya\u00f3",
+    "wof:parent_id":1108692647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.19845,
+    -25.3041,
+    -56.19845,
+    -25.3041
+],
+  "geometry": {"coordinates":[-56.19845,-25.3041],"type":"Point"}
+}

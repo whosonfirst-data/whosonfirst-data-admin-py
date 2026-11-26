@@ -1,0 +1,74 @@
+{
+  "id": 9895054693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.20873,-25.61801,-57.20873,-25.61801",
+    "geom:latitude":-25.61801,
+    "geom:longitude":-57.20873,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719641: name \"\u00d1uati Guaz\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719641"
+        },
+        {
+            "citation":"GeoNames populated place 11719641: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719641"
+        },
+        {
+            "citation":"GeoNames populated place 11719641: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719641"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692731 (Yaguaron), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719641
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a74575d3e0841ec4441b28fee8c31b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692731,
+            "locality_id":9895054693,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054693,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u00d1uati Guaz\u00fa",
+    "wof:parent_id":1108692731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.20873,
+    -25.61801,
+    -57.20873,
+    -25.61801
+],
+  "geometry": {"coordinates":[-57.20873,-25.61801],"type":"Point"}
+}

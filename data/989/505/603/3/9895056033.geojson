@@ -1,0 +1,74 @@
+{
+  "id": 9895056033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.79836,-25.42339,-55.79836,-25.42339",
+    "geom:latitude":-25.42339,
+    "geom:longitude":-55.79836,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767795: name \"Compa\u00f1\u00eda Chaco-I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767795"
+        },
+        {
+            "citation":"GeoNames populated place 11767795: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767795"
+        },
+        {
+            "citation":"GeoNames populated place 11767795: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767795"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692631 (Dr. Juan Manuel Frutos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767795
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"082ea2548add2a2e7a0a9164da839121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692631,
+            "locality_id":9895056033,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056033,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Chaco-I",
+    "wof:parent_id":1108692631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.79836,
+    -25.42339,
+    -55.79836,
+    -25.42339
+],
+  "geometry": {"coordinates":[-55.79836,-25.42339],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.11404,-24.99543,-57.11404,-24.99543",
+    "geom:latitude":-24.99543,
+    "geom:longitude":-57.11404,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11765902: name \"Estancia Caticua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11765902"
+        },
+        {
+            "citation":"GeoNames populated place 11765902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11765902"
+        },
+        {
+            "citation":"GeoNames populated place 11765902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11765902"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692831 (Villa Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11765902
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"24aefbe62343f7b57b78550d2b2ec360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":9895055844,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055844,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Caticua",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.11404,
+    -24.99543,
+    -57.11404,
+    -24.99543
+],
+  "geometry": {"coordinates":[-57.11404,-24.99543],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895053793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.85153,-26.56977,-55.85153,-26.56977",
+    "geom:latitude":-26.56977,
+    "geom:longitude":-55.85153,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437037: name \"San Pablo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437037"
+        },
+        {
+            "citation":"GeoNames populated place 3437037: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437037"
+        },
+        {
+            "citation":"GeoNames populated place 3437037: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437037"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692673 (San Pedro Del Parana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437037
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3274439cb94addf2c6535a4628832bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692673,
+            "locality_id":9895053793,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053793,
+    "wof:lastmodified":1795734962,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1108692673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.85153,
+    -26.56977,
+    -55.85153,
+    -26.56977
+],
+  "geometry": {"coordinates":[-55.85153,-26.56977],"type":"Point"}
+}

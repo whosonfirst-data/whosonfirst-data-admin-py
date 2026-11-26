@@ -1,0 +1,74 @@
+{
+  "id": 9895053779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.22549,-26.55469,-56.22549,-26.55469",
+    "geom:latitude":-26.55469,
+    "geom:longitude":-56.22549,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3436664: name \"Yarati-i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3436664"
+        },
+        {
+            "citation":"GeoNames populated place 3436664: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3436664"
+        },
+        {
+            "citation":"GeoNames populated place 3436664: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3436664"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421195025 (Yuty), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        421195025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436664
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8fc656a8040dce24b8fdc0835c8391e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421195025,
+            "locality_id":9895053779,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895053779,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Yarati-i",
+    "wof:parent_id":421195025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.22549,
+    -26.55469,
+    -56.22549,
+    -26.55469
+],
+  "geometry": {"coordinates":[-56.22549,-26.55469],"type":"Point"}
+}

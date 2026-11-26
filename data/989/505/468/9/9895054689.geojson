@@ -1,0 +1,74 @@
+{
+  "id": 9895054689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.0136,-25.60281,-57.0136,-25.60281",
+    "geom:latitude":-25.60281,
+    "geom:longitude":-57.0136,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719635: name \"Ybyraty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719635"
+        },
+        {
+            "citation":"GeoNames populated place 11719635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719635"
+        },
+        {
+            "citation":"GeoNames populated place 11719635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719635"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692713 (Escobar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719635
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"faea4787092699fdcba10b33359df784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692713,
+            "locality_id":9895054689,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054689,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ybyraty",
+    "wof:parent_id":1108692713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.0136,
+    -25.60281,
+    -57.0136,
+    -25.60281
+],
+  "geometry": {"coordinates":[-57.0136,-25.60281],"type":"Point"}
+}

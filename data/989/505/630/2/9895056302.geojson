@@ -1,0 +1,74 @@
+{
+  "id": 9895056302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.0467,-26.00503,-56.0467,-26.00503",
+    "geom:latitude":-26.00503,
+    "geom:longitude":-56.0467,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11774268: name \"Pati\u00f1o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11774268"
+        },
+        {
+            "citation":"GeoNames populated place 11774268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11774268"
+        },
+        {
+            "citation":"GeoNames populated place 11774268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11774268"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692847 (General Higinio Morinigo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11774268
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1e7ae8f7941960e226fe2be5498f18d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692847,
+            "locality_id":9895056302,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895056302,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pati\u00f1o",
+    "wof:parent_id":1108692847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.0467,
+    -26.00503,
+    -56.0467,
+    -26.00503
+],
+  "geometry": {"coordinates":[-56.0467,-26.00503],"type":"Point"}
+}

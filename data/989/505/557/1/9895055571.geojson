@@ -1,0 +1,74 @@
+{
+  "id": 9895055571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.73997,-26.31468,-55.73997,-26.31468",
+    "geom:latitude":-26.31468,
+    "geom:longitude":-55.73997,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11762211: name \"Hermosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11762211"
+        },
+        {
+            "citation":"GeoNames populated place 11762211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11762211"
+        },
+        {
+            "citation":"GeoNames populated place 11762211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11762211"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692853 (Tavai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11762211
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"98122bde68a3ca8fd4009b66509c9413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692853,
+            "locality_id":9895055571,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895055571,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hermosa",
+    "wof:parent_id":1108692853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.73997,
+    -26.31468,
+    -55.73997,
+    -26.31468
+],
+  "geometry": {"coordinates":[-55.73997,-26.31468],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.73873,-26.99135,-57.73873,-26.99135",
+    "geom:latitude":-26.99135,
+    "geom:longitude":-57.73873,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11714827: name \"Compa\u00f1\u00eda Tacuara-\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11714827"
+        },
+        {
+            "citation":"GeoNames populated place 11714827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11714827"
+        },
+        {
+            "citation":"GeoNames populated place 11714827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11714827"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692787 (Tacuaras), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11714827
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"fe17f6321443a5572a257c326834b352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692787,
+            "locality_id":9895054404,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054404,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Tacuara-\u00ed",
+    "wof:parent_id":1108692787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.73873,
+    -26.99135,
+    -57.73873,
+    -26.99135
+],
+  "geometry": {"coordinates":[-57.73873,-26.99135],"type":"Point"}
+}

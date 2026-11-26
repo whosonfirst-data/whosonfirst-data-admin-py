@@ -1,0 +1,74 @@
+{
+  "id": 9895054313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.30558,-27.19111,-58.30558,-27.19111",
+    "geom:latitude":-27.19111,
+    "geom:longitude":-58.30558,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713387: name \"Compa\u00f1\u00eda Yatait\u00fd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713387"
+        },
+        {
+            "citation":"GeoNames populated place 11713387: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713387"
+        },
+        {
+            "citation":"GeoNames populated place 11713387: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713387"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189017 (General Diaz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        421189017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713387
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f402b0ccf8c62906d316d4d0eb6dc35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189017,
+            "locality_id":9895054313,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054313,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Yatait\u00fd",
+    "wof:parent_id":421189017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.30558,
+    -27.19111,
+    -58.30558,
+    -27.19111
+],
+  "geometry": {"coordinates":[-58.30558,-27.19111],"type":"Point"}
+}

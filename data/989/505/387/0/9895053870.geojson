@@ -1,0 +1,74 @@
+{
+  "id": 9895053870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.89414,-27.34448,-56.89414,-27.34448",
+    "geom:latitude":-27.34448,
+    "geom:longitude":-56.89414,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438867: name \"Compa\u00f1\u00eda Boquer\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438867"
+        },
+        {
+            "citation":"GeoNames populated place 3438867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438867"
+        },
+        {
+            "citation":"GeoNames populated place 3438867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438867"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204309 (Ayolas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421204309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438867
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3234860ece4d1c1f784f65ac9e1b2f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204309,
+            "locality_id":9895053870,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895053870,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Boquer\u00f3n",
+    "wof:parent_id":421204309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.89414,
+    -27.34448,
+    -56.89414,
+    -27.34448
+],
+  "geometry": {"coordinates":[-56.89414,-27.34448],"type":"Point"}
+}

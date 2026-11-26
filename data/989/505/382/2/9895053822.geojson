@@ -1,0 +1,74 @@
+{
+  "id": 9895053822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.32689,-23.27468,-57.32689,-23.27468",
+    "geom:latitude":-23.27468,
+    "geom:longitude":-57.32689,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437816: name \"Loreto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437816"
+        },
+        {
+            "citation":"GeoNames populated place 3437816: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437816"
+        },
+        {
+            "citation":"GeoNames populated place 3437816: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437816"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692749 (Loreto), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676665,
+        102191577,
+        1108692749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437816
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"597da1253f1edbb4dc4935851c411502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692749,
+            "locality_id":9895053822,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":9895053822,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Loreto",
+    "wof:parent_id":1108692749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.32689,
+    -23.27468,
+    -57.32689,
+    -23.27468
+],
+  "geometry": {"coordinates":[-57.32689,-23.27468],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6429,-26.30008,-57.6429,-26.30008",
+    "geom:latitude":-26.30008,
+    "geom:longitude":-57.6429,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11716967: name \"Puesto Tala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11716967"
+        },
+        {
+            "citation":"GeoNames populated place 11716967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11716967"
+        },
+        {
+            "citation":"GeoNames populated place 11716967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11716967"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692707 (Caapucu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11716967
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"37be52e5e33a8869e57927a33d1ad311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692707,
+            "locality_id":9895054509,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054509,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puesto Tala",
+    "wof:parent_id":1108692707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6429,
+    -26.30008,
+    -57.6429,
+    -26.30008
+],
+  "geometry": {"coordinates":[-57.6429,-26.30008],"type":"Point"}
+}

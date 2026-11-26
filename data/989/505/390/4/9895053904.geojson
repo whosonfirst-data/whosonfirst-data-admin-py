@@ -1,0 +1,74 @@
+{
+  "id": 9895053904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.58141,-25.23593,-57.58141,-25.23593",
+    "geom:latitude":-25.23593,
+    "geom:longitude":-57.58141,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11673345: name \"Vi\u00f1as-Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11673345"
+        },
+        {
+            "citation":"GeoNames populated place 11673345: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11673345"
+        },
+        {
+            "citation":"GeoNames populated place 11673345: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11673345"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421166713 (Asuncion), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676651,
+        102191577,
+        421166713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11673345
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"49da3958bf0979948e9fdbd76ba5744f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421166713,
+            "locality_id":9895053904,
+            "region_id":85676651
+        }
+    ],
+    "wof:id":9895053904,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vi\u00f1as-Cu\u00e9",
+    "wof:parent_id":421166713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.58141,
+    -25.23593,
+    -57.58141,
+    -25.23593
+],
+  "geometry": {"coordinates":[-57.58141,-25.23593],"type":"Point"}
+}

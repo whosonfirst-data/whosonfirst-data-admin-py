@@ -1,0 +1,74 @@
+{
+  "id": 9895053919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.4792,-24.17906,-54.4792,-24.17906",
+    "geom:latitude":-24.17906,
+    "geom:longitude":-54.4792,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11674734: name \"Estancia San Bernardo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11674734"
+        },
+        {
+            "citation":"GeoNames populated place 11674734: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11674734"
+        },
+        {
+            "citation":"GeoNames populated place 11674734: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11674734"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692449 (Saltos Del Guaira), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676719,
+        102191577,
+        1108692449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11674734
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cff9c5fbab692934153d623d0a617201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692449,
+            "locality_id":9895053919,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":9895053919,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia San Bernardo",
+    "wof:parent_id":1108692449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.4792,
+    -24.17906,
+    -54.4792,
+    -24.17906
+],
+  "geometry": {"coordinates":[-54.4792,-24.17906],"type":"Point"}
+}

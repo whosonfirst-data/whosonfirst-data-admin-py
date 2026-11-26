@@ -1,0 +1,74 @@
+{
+  "id": 9895054345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.86468,-27.2432,-57.86468,-27.2432",
+    "geom:latitude":-27.2432,
+    "geom:longitude":-57.86468,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713742: name \"Compa\u00f1\u00eda Isla Roye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713742"
+        },
+        {
+            "citation":"GeoNames populated place 11713742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713742"
+        },
+        {
+            "citation":"GeoNames populated place 11713742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692877 (Villalbin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713742
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f7e7ece5c03a7ca1d3915645ba613671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692877,
+            "locality_id":9895054345,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054345,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Isla Roye",
+    "wof:parent_id":1108692877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.86468,
+    -27.2432,
+    -57.86468,
+    -27.2432
+],
+  "geometry": {"coordinates":[-57.86468,-27.2432],"type":"Point"}
+}

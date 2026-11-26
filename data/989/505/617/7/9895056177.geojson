@@ -1,0 +1,74 @@
+{
+  "id": 9895056177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.58611,-25.8656,-56.58611,-25.8656",
+    "geom:latitude":-25.8656,
+    "geom:longitude":-56.58611,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11772445: name \"Cerrito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11772445"
+        },
+        {
+            "citation":"GeoNames populated place 11772445: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11772445"
+        },
+        {
+            "citation":"GeoNames populated place 11772445: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11772445"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692541 (Itape), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        1108692541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11772445
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3862f1453c5715601ca65bd55c4c443e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692541,
+            "locality_id":9895056177,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056177,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Cerrito",
+    "wof:parent_id":1108692541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.58611,
+    -25.8656,
+    -56.58611,
+    -25.8656
+],
+  "geometry": {"coordinates":[-56.58611,-25.8656],"type":"Point"}
+}

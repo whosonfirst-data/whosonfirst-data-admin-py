@@ -1,0 +1,74 @@
+{
+  "id": 9895054621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.97224,-24.62655,-55.97224,-24.62655",
+    "geom:latitude":-24.62655,
+    "geom:longitude":-55.97224,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11718860: name \"Tayi Car\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11718860"
+        },
+        {
+            "citation":"GeoNames populated place 11718860: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11718860"
+        },
+        {
+            "citation":"GeoNames populated place 11718860: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11718860"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692491 (Capiibary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11718860
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"fccc6a7c885e6b488470df86f251610b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692491,
+            "locality_id":9895054621,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895054621,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tayi Car\u00e9",
+    "wof:parent_id":1108692491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.97224,
+    -24.62655,
+    -55.97224,
+    -24.62655
+],
+  "geometry": {"coordinates":[-55.97224,-24.62655],"type":"Point"}
+}

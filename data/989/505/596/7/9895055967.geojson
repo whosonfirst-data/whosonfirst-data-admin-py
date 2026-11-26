@@ -1,0 +1,74 @@
+{
+  "id": 9895055967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.27204,-23.44044,-60.27204,-23.44044",
+    "geom:latitude":-23.44044,
+    "geom:longitude":-60.27204,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767452: name \"Pavon-Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767452"
+        },
+        {
+            "citation":"GeoNames populated place 11767452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767452"
+        },
+        {
+            "citation":"GeoNames populated place 11767452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767452"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171777 (Mariscal Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676659,
+        102191577,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767452
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"51b4810bc2bb8852d17bb3dba2e536ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":9895055967,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":9895055967,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pavon-Cu\u00e9",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.27204,
+    -23.44044,
+    -60.27204,
+    -23.44044
+],
+  "geometry": {"coordinates":[-60.27204,-23.44044],"type":"Point"}
+}

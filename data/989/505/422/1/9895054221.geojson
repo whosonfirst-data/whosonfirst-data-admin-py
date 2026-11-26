@@ -1,0 +1,74 @@
+{
+  "id": 9895054221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.02258,-26.8003,-57.02258,-26.8003",
+    "geom:latitude":-26.8003,
+    "geom:longitude":-57.02258,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712856: name \"Compa\u00f1\u00eda Laguna Pyta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712856"
+        },
+        {
+            "citation":"GeoNames populated place 11712856: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712856"
+        },
+        {
+            "citation":"GeoNames populated place 11712856: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712856"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170017 (San Ignacio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421170017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712856
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"21a7a29775eb1e104fd0602469a4ec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170017,
+            "locality_id":9895054221,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054221,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Laguna Pyta",
+    "wof:parent_id":421170017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.02258,
+    -26.8003,
+    -57.02258,
+    -26.8003
+],
+  "geometry": {"coordinates":[-57.02258,-26.8003],"type":"Point"}
+}

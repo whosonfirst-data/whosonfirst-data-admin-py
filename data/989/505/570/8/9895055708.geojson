@@ -1,0 +1,74 @@
+{
+  "id": 9895055708,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.48211,-23.96859,-56.48211,-23.96859",
+    "geom:latitude":-23.96859,
+    "geom:longitude":-56.48211,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11763365: name \"Ganadera Loma Bernal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11763365"
+        },
+        {
+            "citation":"GeoNames populated place 11763365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11763365"
+        },
+        {
+            "citation":"GeoNames populated place 11763365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11763365"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692773 (Lima), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11763365
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"74f821411430a3ee6fa5ccc139cc443f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692773,
+            "locality_id":9895055708,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055708,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ganadera Loma Bernal",
+    "wof:parent_id":1108692773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.48211,
+    -23.96859,
+    -56.48211,
+    -23.96859
+],
+  "geometry": {"coordinates":[-56.48211,-23.96859],"type":"Point"}
+}

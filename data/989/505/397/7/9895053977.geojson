@@ -1,0 +1,74 @@
+{
+  "id": 9895053977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18903,-27.0018,-56.18903,-27.0018",
+    "geom:latitude":-27.0018,
+    "geom:longitude":-56.18903,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11684162: name \"Compa\u00f1\u00eda Syryryc\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11684162"
+        },
+        {
+            "citation":"GeoNames populated place 11684162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11684162"
+        },
+        {
+            "citation":"GeoNames populated place 11684162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11684162"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692545 (General Artigas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11684162
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a764fc24479bbc4e3e333e1d0b45e3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692545,
+            "locality_id":9895053977,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053977,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Syryryc\u00e1",
+    "wof:parent_id":1108692545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18903,
+    -27.0018,
+    -56.18903,
+    -27.0018
+],
+  "geometry": {"coordinates":[-56.18903,-27.0018],"type":"Point"}
+}

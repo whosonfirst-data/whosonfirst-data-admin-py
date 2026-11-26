@@ -1,0 +1,74 @@
+{
+  "id": 9895054109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.95905,-24.36765,-55.95905,-24.36765",
+    "geom:latitude":-24.36765,
+    "geom:longitude":-55.95905,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712358: name \"It\u00e1-Kys\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712358"
+        },
+        {
+            "citation":"GeoNames populated place 11712358: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712358"
+        },
+        {
+            "citation":"GeoNames populated place 11712358: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712358"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692453 (Curuguaty), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676719,
+        102191577,
+        1108692453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712358
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dc07b256d9516703974986b9963ea900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692453,
+            "locality_id":9895054109,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":9895054109,
+    "wof:lastmodified":1795734962,
+    "wof:name":"It\u00e1-Kys\u00e9",
+    "wof:parent_id":1108692453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.95905,
+    -24.36765,
+    -55.95905,
+    -24.36765
+],
+  "geometry": {"coordinates":[-55.95905,-24.36765],"type":"Point"}
+}

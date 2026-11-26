@@ -1,0 +1,74 @@
+{
+  "id": 9895055774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.20211,-24.06611,-57.20211,-24.06611",
+    "geom:latitude":-24.06611,
+    "geom:longitude":-57.20211,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11764584: name \"Estancia Pypor\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11764584"
+        },
+        {
+            "citation":"GeoNames populated place 11764584: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11764584"
+        },
+        {
+            "citation":"GeoNames populated place 11764584: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11764584"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692763 (Antequera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11764584
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"86c5cf4649d42b5991d0992dd34f6e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692763,
+            "locality_id":9895055774,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055774,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Pypor\u00e9",
+    "wof:parent_id":1108692763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.20211,
+    -24.06611,
+    -57.20211,
+    -24.06611
+],
+  "geometry": {"coordinates":[-57.20211,-24.06611],"type":"Point"}
+}

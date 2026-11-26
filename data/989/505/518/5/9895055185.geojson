@@ -1,0 +1,74 @@
+{
+  "id": 9895055185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.31244,-24.9658,-55.31244,-24.9658",
+    "geom:latitude":-24.9658,
+    "geom:longitude":-55.31244,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11738654: name \"Zanja Morot\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11738654"
+        },
+        {
+            "citation":"GeoNames populated place 11738654: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11738654"
+        },
+        {
+            "citation":"GeoNames populated place 11738654: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11738654"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692553 (Itakyry), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11738654
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"77c44dd36d8e771c4949ef18fcd33a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692553,
+            "locality_id":9895055185,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895055185,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Zanja Morot\u00ed",
+    "wof:parent_id":1108692553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.31244,
+    -24.9658,
+    -55.31244,
+    -24.9658
+],
+  "geometry": {"coordinates":[-55.31244,-24.9658],"type":"Point"}
+}

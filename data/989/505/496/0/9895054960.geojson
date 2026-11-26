@@ -1,0 +1,74 @@
+{
+  "id": 9895054960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.99299,-25.45688,-56.99299,-25.45688",
+    "geom:latitude":-25.45688,
+    "geom:longitude":-56.99299,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731566: name \"Compa\u00f1\u00eda Ybyraty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731566"
+        },
+        {
+            "citation":"GeoNames populated place 11731566: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731566"
+        },
+        {
+            "citation":"GeoNames populated place 11731566: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731566"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184641 (Piribebuy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421184641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731566
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9d11d753cd04fa3cede1c3a22b686cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184641,
+            "locality_id":9895054960,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054960,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Ybyraty",
+    "wof:parent_id":421184641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.99299,
+    -25.45688,
+    -56.99299,
+    -25.45688
+],
+  "geometry": {"coordinates":[-56.99299,-25.45688],"type":"Point"}
+}

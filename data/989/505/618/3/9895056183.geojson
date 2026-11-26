@@ -1,0 +1,74 @@
+{
+  "id": 9895056183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.5089,-25.78747,-56.5089,-25.78747",
+    "geom:latitude":-25.78747,
+    "geom:longitude":-56.5089,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11772455: name \"Caroveni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11772455"
+        },
+        {
+            "citation":"GeoNames populated place 11772455: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11772455"
+        },
+        {
+            "citation":"GeoNames populated place 11772455: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11772455"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692541 (Itape), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        1108692541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11772455
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"694e0f9b9e42ebb9497c443eece258f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692541,
+            "locality_id":9895056183,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056183,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Caroveni",
+    "wof:parent_id":1108692541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.5089,
+    -25.78747,
+    -56.5089,
+    -25.78747
+],
+  "geometry": {"coordinates":[-56.5089,-25.78747],"type":"Point"}
+}

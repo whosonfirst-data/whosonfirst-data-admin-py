@@ -1,0 +1,74 @@
+{
+  "id": 9895054784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.89676,-25.94071,-56.89676,-25.94071",
+    "geom:latitude":-25.94071,
+    "geom:longitude":-56.89676,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11723249: name \"Villa Real\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11723249"
+        },
+        {
+            "citation":"GeoNames populated place 11723249: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11723249"
+        },
+        {
+            "citation":"GeoNames populated place 11723249: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11723249"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692733 (Yvycui), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11723249
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"96a1c703ed719b340bcc7c39bba935f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692733,
+            "locality_id":9895054784,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054784,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Villa Real",
+    "wof:parent_id":1108692733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.89676,
+    -25.94071,
+    -56.89676,
+    -25.94071
+],
+  "geometry": {"coordinates":[-56.89676,-25.94071],"type":"Point"}
+}

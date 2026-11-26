@@ -1,0 +1,74 @@
+{
+  "id": 9895054779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.75609,-25.9932,-56.75609,-25.9932",
+    "geom:latitude":-25.9932,
+    "geom:longitude":-56.75609,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11722302: name \"Isla Ybat\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11722302"
+        },
+        {
+            "citation":"GeoNames populated place 11722302: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11722302"
+        },
+        {
+            "citation":"GeoNames populated place 11722302: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11722302"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692733 (Yvycui), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11722302
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"439f8d92bcfeb22411c17842f56c9c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692733,
+            "locality_id":9895054779,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054779,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Isla Ybat\u00e9",
+    "wof:parent_id":1108692733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.75609,
+    -25.9932,
+    -56.75609,
+    -25.9932
+],
+  "geometry": {"coordinates":[-56.75609,-25.9932],"type":"Point"}
+}

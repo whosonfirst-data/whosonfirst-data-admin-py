@@ -1,0 +1,74 @@
+{
+  "id": 9895056126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.05473,-25.35517,-56.05473,-25.35517",
+    "geom:latitude":-25.35517,
+    "geom:longitude":-56.05473,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770372: name \"Veinticuatro de Mayo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770372"
+        },
+        {
+            "citation":"GeoNames populated place 11770372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770372"
+        },
+        {
+            "citation":"GeoNames populated place 11770372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770372"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183417 (Caaguazu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        421183417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770372
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3fc4035f9b9dc92219fa5f23e770c1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421183417,
+            "locality_id":9895056126,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056126,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Veinticuatro de Mayo",
+    "wof:parent_id":421183417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.05473,
+    -25.35517,
+    -56.05473,
+    -25.35517
+],
+  "geometry": {"coordinates":[-56.05473,-25.35517],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895053837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.76067,-25.09946,-54.76067,-25.09946",
+    "geom:latitude":-25.09946,
+    "geom:longitude":-54.76067,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437999: name \"Herrera Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437999"
+        },
+        {
+            "citation":"GeoNames populated place 3437999: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437999"
+        },
+        {
+            "citation":"GeoNames populated place 3437999: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437999"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692573 (Mbaracayu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437999
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d9ad24893ea7a7e61ba898a88a639a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692573,
+            "locality_id":9895053837,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895053837,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Herrera Cu\u00e9",
+    "wof:parent_id":1108692573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.76067,
+    -25.09946,
+    -54.76067,
+    -25.09946
+],
+  "geometry": {"coordinates":[-54.76067,-25.09946],"type":"Point"}
+}

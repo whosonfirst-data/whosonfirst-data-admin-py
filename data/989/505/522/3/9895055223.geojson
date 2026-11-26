@@ -1,0 +1,74 @@
+{
+  "id": 9895055223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.24861,-24.96976,-56.24861,-24.96976",
+    "geom:latitude":-24.96976,
+    "geom:longitude":-56.24861,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11739578: name \"Compa\u00f1\u00eda Trapiche-Cue\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11739578"
+        },
+        {
+            "citation":"GeoNames populated place 11739578: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11739578"
+        },
+        {
+            "citation":"GeoNames populated place 11739578: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11739578"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692629 (Santa Rosa Del Mbutuy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11739578
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5522641e90d4eb5a030d78e41f794d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692629,
+            "locality_id":9895055223,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055223,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Trapiche-Cue",
+    "wof:parent_id":1108692629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.24861,
+    -24.96976,
+    -56.24861,
+    -24.96976
+],
+  "geometry": {"coordinates":[-56.24861,-24.96976],"type":"Point"}
+}

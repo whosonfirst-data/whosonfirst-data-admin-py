@@ -1,0 +1,74 @@
+{
+  "id": 9895056238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51286,-26.16427,-56.51286,-26.16427",
+    "geom:latitude":-26.16427,
+    "geom:longitude":-56.51286,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773254: name \"Estancia Uni\u00f3n Paraguaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773254"
+        },
+        {
+            "citation":"GeoNames populated place 11773254: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773254"
+        },
+        {
+            "citation":"GeoNames populated place 11773254: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773254"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692849 (Maciel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773254
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"6b0a0cce15f67eb852d82b4d52fcc82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692849,
+            "locality_id":9895056238,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895056238,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Uni\u00f3n Paraguaya",
+    "wof:parent_id":1108692849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51286,
+    -26.16427,
+    -56.51286,
+    -26.16427
+],
+  "geometry": {"coordinates":[-56.51286,-26.16427],"type":"Point"}
+}

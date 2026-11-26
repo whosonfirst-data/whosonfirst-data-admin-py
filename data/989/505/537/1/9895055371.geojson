@@ -1,0 +1,74 @@
+{
+  "id": 9895055371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.26493,-26.76224,-55.26493,-26.76224",
+    "geom:latitude":-26.76224,
+    "geom:longitude":-55.26493,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743855: name \"Kil\u00f3metro Veinte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743855"
+        },
+        {
+            "citation":"GeoNames populated place 11743855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743855"
+        },
+        {
+            "citation":"GeoNames populated place 11743855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692867 (Capitan Meza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743855
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3d277896f9d0d3db1eacb53b2e9efcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692867,
+            "locality_id":9895055371,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055371,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kil\u00f3metro Veinte",
+    "wof:parent_id":1108692867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.26493,
+    -26.76224,
+    -55.26493,
+    -26.76224
+],
+  "geometry": {"coordinates":[-55.26493,-26.76224],"type":"Point"}
+}

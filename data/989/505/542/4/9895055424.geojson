@@ -1,0 +1,74 @@
+{
+  "id": 9895055424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.46877,-24.20276,-56.46877,-24.20276",
+    "geom:latitude":-24.20276,
+    "geom:longitude":-56.46877,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744572: name \"Colonia Coe Pyta Primero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744572"
+        },
+        {
+            "citation":"GeoNames populated place 11744572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744572"
+        },
+        {
+            "citation":"GeoNames populated place 11744572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744572"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692499 (Liberacion), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744572
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5fb3269daf649270c34d6bc3cd994421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692499,
+            "locality_id":9895055424,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055424,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Coe Pyta Primero",
+    "wof:parent_id":1108692499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.46877,
+    -24.20276,
+    -56.46877,
+    -24.20276
+],
+  "geometry": {"coordinates":[-56.46877,-24.20276],"type":"Point"}
+}

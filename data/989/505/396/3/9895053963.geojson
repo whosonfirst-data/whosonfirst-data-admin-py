@@ -1,0 +1,74 @@
+{
+  "id": 9895053963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.76454,-27.26572,-55.76454,-27.26572",
+    "geom:latitude":-27.26572,
+    "geom:longitude":-55.76454,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11682208: name \"Compa\u00f1\u00eda Alborada Dos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11682208"
+        },
+        {
+            "citation":"GeoNames populated place 11682208: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11682208"
+        },
+        {
+            "citation":"GeoNames populated place 11682208: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11682208"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180053 (Capitan Miranda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421180053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11682208
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a92dcf66af84861e8d074c52bb4633a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421180053,
+            "locality_id":9895053963,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053963,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Alborada Dos",
+    "wof:parent_id":421180053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.76454,
+    -27.26572,
+    -55.76454,
+    -27.26572
+],
+  "geometry": {"coordinates":[-55.76454,-27.26572],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.67589,-25.35081,-55.67589,-25.35081",
+    "geom:latitude":-25.35081,
+    "geom:longitude":-55.67589,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767551: name \"Colonia Luz y Esperanza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767551"
+        },
+        {
+            "citation":"GeoNames populated place 11767551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767551"
+        },
+        {
+            "citation":"GeoNames populated place 11767551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767551"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692645 (J Eulogio Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767551
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f5bba4a3afc45a2e6e6cf3eb27e9e48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":9895055984,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055984,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Luz y Esperanza",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.67589,
+    -25.35081,
+    -55.67589,
+    -25.35081
+],
+  "geometry": {"coordinates":[-55.67589,-25.35081],"type":"Point"}
+}

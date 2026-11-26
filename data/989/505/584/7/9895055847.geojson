@@ -1,0 +1,74 @@
+{
+  "id": 9895055847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.4753,-24.78112,-57.4753,-24.78112",
+    "geom:latitude":-24.78112,
+    "geom:longitude":-57.4753,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11765975: name \"Puesto Planchada Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11765975"
+        },
+        {
+            "citation":"GeoNames populated place 11765975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11765975"
+        },
+        {
+            "citation":"GeoNames populated place 11765975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11765975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171779 (Benjamin Aceval), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676671,
+        102191577,
+        421171779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11765975
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"31d05ed50b2c81a0c27a5d1299190005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171779,
+            "locality_id":9895055847,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":9895055847,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puesto Planchada Cu\u00e9",
+    "wof:parent_id":421171779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.4753,
+    -24.78112,
+    -57.4753,
+    -24.78112
+],
+  "geometry": {"coordinates":[-57.4753,-24.78112],"type":"Point"}
+}

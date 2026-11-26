@@ -1,0 +1,74 @@
+{
+  "id": 9895054188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.82251,-26.86788,-56.82251,-26.86788",
+    "geom:latitude":-26.86788,
+    "geom:longitude":-56.82251,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712791: name \"Compa\u00f1\u00eda Itajhungu\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712791"
+        },
+        {
+            "citation":"GeoNames populated place 11712791: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712791"
+        },
+        {
+            "citation":"GeoNames populated place 11712791: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712791"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692699 (Santa Rosa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        1108692699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712791
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"672c5d3a67070e6ff0c3f5f93b4a48e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692699,
+            "locality_id":9895054188,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054188,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Itajhungu\u00e1",
+    "wof:parent_id":1108692699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.82251,
+    -26.86788,
+    -56.82251,
+    -26.86788
+],
+  "geometry": {"coordinates":[-56.82251,-26.86788],"type":"Point"}
+}

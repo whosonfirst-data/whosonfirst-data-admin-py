@@ -1,0 +1,74 @@
+{
+  "id": 9895056092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.9731,-25.34448,-54.9731,-25.34448",
+    "geom:latitude":-25.34448,
+    "geom:longitude":-54.9731,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11769668: name \"Caacup\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11769668"
+        },
+        {
+            "citation":"GeoNames populated place 11769668: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11769668"
+        },
+        {
+            "citation":"GeoNames populated place 11769668: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11769668"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692653 (Mariscal Francisco Solano Lope), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11769668
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5b139ed1c1107886b69494a72d3b951f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692653,
+            "locality_id":9895056092,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056092,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Caacup\u00e9",
+    "wof:parent_id":1108692653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.9731,
+    -25.34448,
+    -54.9731,
+    -25.34448
+],
+  "geometry": {"coordinates":[-54.9731,-25.34448],"type":"Point"}
+}

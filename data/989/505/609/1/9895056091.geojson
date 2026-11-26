@@ -1,0 +1,74 @@
+{
+  "id": 9895056091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.01118,-25.31568,-55.01118,-25.31568",
+    "geom:latitude":-25.31568,
+    "geom:longitude":-55.01118,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11769667: name \"Nuestra Se\u00f1ora Aparecida\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11769667"
+        },
+        {
+            "citation":"GeoNames populated place 11769667: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11769667"
+        },
+        {
+            "citation":"GeoNames populated place 11769667: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11769667"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692653 (Mariscal Francisco Solano Lope), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11769667
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"49b4714ab1eea5eff3d7084e92a6d2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692653,
+            "locality_id":9895056091,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056091,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Nuestra Se\u00f1ora Aparecida",
+    "wof:parent_id":1108692653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.01118,
+    -25.31568,
+    -55.01118,
+    -25.31568
+],
+  "geometry": {"coordinates":[-55.01118,-25.31568],"type":"Point"}
+}

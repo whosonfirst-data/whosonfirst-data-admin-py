@@ -1,0 +1,74 @@
+{
+  "id": 9895055890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.06148,-25.08464,-56.06148,-25.08464",
+    "geom:latitude":-25.08464,
+    "geom:longitude":-56.06148,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11766616: name \"Compa\u00f1\u00eda Santo Domingo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11766616"
+        },
+        {
+            "citation":"GeoNames populated place 11766616: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11766616"
+        },
+        {
+            "citation":"GeoNames populated place 11766616: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11766616"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692637 (San Joaquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11766616
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5fa4de09e3065b9de5a7337571c9d419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692637,
+            "locality_id":9895055890,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055890,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Santo Domingo",
+    "wof:parent_id":1108692637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.06148,
+    -25.08464,
+    -56.06148,
+    -25.08464
+],
+  "geometry": {"coordinates":[-56.06148,-25.08464],"type":"Point"}
+}

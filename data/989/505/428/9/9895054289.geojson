@@ -1,0 +1,74 @@
+{
+  "id": 9895054289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.41982,-27.27241,-57.41982,-27.27241",
+    "geom:latitude":-27.27241,
+    "geom:longitude":-57.41982,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713129: name \"Estancia Caballero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713129"
+        },
+        {
+            "citation":"GeoNames populated place 11713129: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713129"
+        },
+        {
+            "citation":"GeoNames populated place 11713129: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713129"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692871 (Cerrito), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713129
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8765f2366999c54fb63cfb9f84d25acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692871,
+            "locality_id":9895054289,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054289,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Caballero",
+    "wof:parent_id":1108692871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.41982,
+    -27.27241,
+    -57.41982,
+    -27.27241
+],
+  "geometry": {"coordinates":[-57.41982,-27.27241],"type":"Point"}
+}

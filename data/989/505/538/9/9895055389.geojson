@@ -1,0 +1,74 @@
+{
+  "id": 9895055389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.22755,-26.87556,-55.22755,-26.87556",
+    "geom:latitude":-26.87556,
+    "geom:longitude":-55.22755,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743937: name \"Kil\u00f3metro Siete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743937"
+        },
+        {
+            "citation":"GeoNames populated place 11743937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743937"
+        },
+        {
+            "citation":"GeoNames populated place 11743937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692867 (Capitan Meza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743937
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5f6585cc1a6fd543a9ee9e69ad665821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692867,
+            "locality_id":9895055389,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055389,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kil\u00f3metro Siete",
+    "wof:parent_id":1108692867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.22755,
+    -26.87556,
+    -55.22755,
+    -26.87556
+],
+  "geometry": {"coordinates":[-55.22755,-26.87556],"type":"Point"}
+}

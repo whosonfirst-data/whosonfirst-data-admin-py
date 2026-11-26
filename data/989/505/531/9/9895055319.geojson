@@ -1,0 +1,74 @@
+{
+  "id": 9895055319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.57053,-25.23789,-54.57053,-25.23789",
+    "geom:latitude":-25.23789,
+    "geom:longitude":-54.57053,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743521: name \"Patrimonio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743521"
+        },
+        {
+            "citation":"GeoNames populated place 11743521: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743521"
+        },
+        {
+            "citation":"GeoNames populated place 11743521: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743521"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692579 (Santa Fe Del Parana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743521
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d78d6f2ff1c98a7cb00622971386359c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692579,
+            "locality_id":9895055319,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895055319,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Patrimonio",
+    "wof:parent_id":1108692579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.57053,
+    -25.23789,
+    -54.57053,
+    -25.23789
+],
+  "geometry": {"coordinates":[-54.57053,-25.23789],"type":"Point"}
+}

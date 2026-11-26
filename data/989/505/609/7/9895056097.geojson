@@ -1,0 +1,74 @@
+{
+  "id": 9895056097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.48729,-25.52356,-55.48729,-25.52356",
+    "geom:latitude":-25.52356,
+    "geom:longitude":-55.48729,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770076: name \"Chapir\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770076"
+        },
+        {
+            "citation":"GeoNames populated place 11770076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770076"
+        },
+        {
+            "citation":"GeoNames populated place 11770076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770076"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692645 (J Eulogio Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770076
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1d16a3c107b74c33b96ec7e7217b4885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":9895056097,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056097,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Chapir\u00e9",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.48729,
+    -25.52356,
+    -55.48729,
+    -25.52356
+],
+  "geometry": {"coordinates":[-55.48729,-25.52356],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054934,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.90493,-25.37565,-56.90493,-25.37565",
+    "geom:latitude":-25.37565,
+    "geom:longitude":-56.90493,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731537: name \"Compa\u00f1\u00eda Rubio-\u00d1\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731537"
+        },
+        {
+            "citation":"GeoNames populated place 11731537: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731537"
+        },
+        {
+            "citation":"GeoNames populated place 11731537: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731537"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692507 (Eusebio Ayala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731537
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ff6cadcfec16537088ec5b19e4f7eca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692507,
+            "locality_id":9895054934,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054934,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Rubio-\u00d1\u00fa",
+    "wof:parent_id":1108692507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.90493,
+    -25.37565,
+    -56.90493,
+    -25.37565
+],
+  "geometry": {"coordinates":[-56.90493,-25.37565],"type":"Point"}
+}

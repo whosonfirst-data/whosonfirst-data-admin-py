@@ -1,0 +1,74 @@
+{
+  "id": 9895055983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.73936,-25.34235,-55.73936,-25.34235",
+    "geom:latitude":-25.34235,
+    "geom:longitude":-55.73936,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767550: name \"Santo Domingo de Guzm\u00e1n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767550"
+        },
+        {
+            "citation":"GeoNames populated place 11767550: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767550"
+        },
+        {
+            "citation":"GeoNames populated place 11767550: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767550"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692631 (Dr. Juan Manuel Frutos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767550
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9707638ce481b41a88b7d4d109ddba14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692631,
+            "locality_id":9895055983,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055983,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Santo Domingo de Guzm\u00e1n",
+    "wof:parent_id":1108692631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.73936,
+    -25.34235,
+    -55.73936,
+    -25.34235
+],
+  "geometry": {"coordinates":[-55.73936,-25.34235],"type":"Point"}
+}

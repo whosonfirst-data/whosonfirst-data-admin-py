@@ -1,0 +1,74 @@
+{
+  "id": 9895055502,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.03353,-26.70134,-55.03353,-26.70134",
+    "geom:latitude":-26.70134,
+    "geom:longitude":-55.03353,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11761898: name \"Kil\u00f3metro Ocho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11761898"
+        },
+        {
+            "citation":"GeoNames populated place 11761898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11761898"
+        },
+        {
+            "citation":"GeoNames populated place 11761898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11761898"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692685 (Yatytay), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11761898
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"39bcd1fc09c51572e3c9e06d47e4436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692685,
+            "locality_id":9895055502,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055502,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kil\u00f3metro Ocho",
+    "wof:parent_id":1108692685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.03353,
+    -26.70134,
+    -55.03353,
+    -26.70134
+],
+  "geometry": {"coordinates":[-55.03353,-26.70134],"type":"Point"}
+}

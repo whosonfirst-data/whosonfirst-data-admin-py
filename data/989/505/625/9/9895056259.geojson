@@ -1,0 +1,74 @@
+{
+  "id": 9895056259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.69574,-26.18267,-56.69574,-26.18267",
+    "geom:latitude":-26.18267,
+    "geom:longitude":-56.69574,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773510: name \"Pastore\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773510"
+        },
+        {
+            "citation":"GeoNames populated place 11773510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773510"
+        },
+        {
+            "citation":"GeoNames populated place 11773510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773510"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692717 (Mbuyapey), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773510
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1ddb79558934b330a840e8a074f8d5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692717,
+            "locality_id":9895056259,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895056259,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pastore",
+    "wof:parent_id":1108692717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.69574,
+    -26.18267,
+    -56.69574,
+    -26.18267
+],
+  "geometry": {"coordinates":[-56.69574,-26.18267],"type":"Point"}
+}

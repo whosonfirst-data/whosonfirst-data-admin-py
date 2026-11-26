@@ -1,0 +1,74 @@
+{
+  "id": 9895053969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.04622,-27.19784,-56.04622,-27.19784",
+    "geom:latitude":-27.19784,
+    "geom:longitude":-56.04622,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11683451: name \"Compa\u00f1\u00eda San Mart\u00edn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11683451"
+        },
+        {
+            "citation":"GeoNames populated place 11683451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11683451"
+        },
+        {
+            "citation":"GeoNames populated place 11683451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11683451"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189519 (Carmen Del Parana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421189519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11683451
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ba578c6d430cc0556333712f45767634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189519,
+            "locality_id":9895053969,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053969,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Mart\u00edn",
+    "wof:parent_id":421189519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.04622,
+    -27.19784,
+    -56.04622,
+    -27.19784
+],
+  "geometry": {"coordinates":[-56.04622,-27.19784],"type":"Point"}
+}

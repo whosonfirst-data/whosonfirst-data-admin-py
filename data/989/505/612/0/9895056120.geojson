@@ -1,0 +1,74 @@
+{
+  "id": 9895056120,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21409,-25.34744,-56.21409,-25.34744",
+    "geom:latitude":-25.34744,
+    "geom:longitude":-56.21409,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770215: name \"Segundo Potrero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770215"
+        },
+        {
+            "citation":"GeoNames populated place 11770215: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770215"
+        },
+        {
+            "citation":"GeoNames populated place 11770215: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770215"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692647 (R.i. 3 Corrales), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770215
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"043e576ac68d7c1a541b2f04df921aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692647,
+            "locality_id":9895056120,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056120,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Segundo Potrero",
+    "wof:parent_id":1108692647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21409,
+    -25.34744,
+    -56.21409,
+    -25.34744
+],
+  "geometry": {"coordinates":[-56.21409,-25.34744],"type":"Point"}
+}

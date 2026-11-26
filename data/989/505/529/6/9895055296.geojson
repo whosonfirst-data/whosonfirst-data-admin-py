@@ -1,0 +1,74 @@
+{
+  "id": 9895055296,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.61123,-27.25431,-55.61123,-27.25431",
+    "geom:latitude":-27.25431,
+    "geom:longitude":-55.61123,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743188: name \"It\u00e1 Caj\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743188"
+        },
+        {
+            "citation":"GeoNames populated place 11743188: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743188"
+        },
+        {
+            "citation":"GeoNames populated place 11743188: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743188"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692809 (Nueva Alborada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743188
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"87e1b4a1e4ba53a05daa256c23f3356b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692809,
+            "locality_id":9895055296,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055296,
+    "wof:lastmodified":1795734962,
+    "wof:name":"It\u00e1 Caj\u00f3n",
+    "wof:parent_id":1108692809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.61123,
+    -27.25431,
+    -55.61123,
+    -27.25431
+],
+  "geometry": {"coordinates":[-55.61123,-27.25431],"type":"Point"}
+}

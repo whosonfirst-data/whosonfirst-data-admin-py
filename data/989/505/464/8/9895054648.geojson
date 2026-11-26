@@ -1,0 +1,74 @@
+{
+  "id": 9895054648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.49748,-25.6644,-57.49748,-25.6644",
+    "geom:latitude":-25.6644,
+    "geom:longitude":-57.49748,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719577: name \"Chaco-\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719577"
+        },
+        {
+            "citation":"GeoNames populated place 11719577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719577"
+        },
+        {
+            "citation":"GeoNames populated place 11719577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719577"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692597 (Nueva Italia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        1108692597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719577
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"60e43923d349c7daf5b41aad6a0c9d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692597,
+            "locality_id":9895054648,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054648,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Chaco-\u00ed",
+    "wof:parent_id":1108692597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.49748,
+    -25.6644,
+    -57.49748,
+    -25.6644
+],
+  "geometry": {"coordinates":[-57.49748,-25.6644],"type":"Point"}
+}

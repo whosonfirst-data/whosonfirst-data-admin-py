@@ -1,0 +1,74 @@
+{
+  "id": 9895053886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.05987,-26.44902,-56.05987,-26.44902",
+    "geom:latitude":-26.44902,
+    "geom:longitude":-56.05987,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3439194: name \"Capiitindy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3439194"
+        },
+        {
+            "citation":"GeoNames populated place 3439194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3439194"
+        },
+        {
+            "citation":"GeoNames populated place 3439194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3439194"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692859 (3 De Mayo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439194
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c0270ded7caa8ef7ef08a9617cf02875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692859,
+            "locality_id":9895053886,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895053886,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Capiitindy",
+    "wof:parent_id":1108692859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.05987,
+    -26.44902,
+    -56.05987,
+    -26.44902
+],
+  "geometry": {"coordinates":[-56.05987,-26.44902],"type":"Point"}
+}

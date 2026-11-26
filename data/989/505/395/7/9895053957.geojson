@@ -1,0 +1,74 @@
+{
+  "id": 9895053957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.47425,-23.88839,-55.47425,-23.88839",
+    "geom:latitude":-23.88839,
+    "geom:longitude":-55.47425,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11681965: name \"Compa\u00f1\u00eda Cerro Guy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11681965"
+        },
+        {
+            "citation":"GeoNames populated place 11681965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11681965"
+        },
+        {
+            "citation":"GeoNames populated place 11681965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11681965"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692461 (Ype Jhu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676719,
+        102191577,
+        1108692461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11681965
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c36308c5dc88dbcfa3f377140fd2f79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692461,
+            "locality_id":9895053957,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":9895053957,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Cerro Guy",
+    "wof:parent_id":1108692461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.47425,
+    -23.88839,
+    -55.47425,
+    -23.88839
+],
+  "geometry": {"coordinates":[-55.47425,-23.88839],"type":"Point"}
+}

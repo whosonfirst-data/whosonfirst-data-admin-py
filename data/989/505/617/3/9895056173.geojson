@@ -1,0 +1,74 @@
+{
+  "id": 9895056173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.72909,-25.90174,-56.72909,-25.90174",
+    "geom:latitude":-25.90174,
+    "geom:longitude":-56.72909,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11772438: name \"Punta Guaz\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11772438"
+        },
+        {
+            "citation":"GeoNames populated place 11772438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11772438"
+        },
+        {
+            "citation":"GeoNames populated place 11772438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11772438"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692727 (Tebicuary-mi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11772438
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7c3c3c1942a2cbd59d3e0a831c0ce730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692727,
+            "locality_id":9895056173,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895056173,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Punta Guaz\u00fa",
+    "wof:parent_id":1108692727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.72909,
+    -25.90174,
+    -56.72909,
+    -25.90174
+],
+  "geometry": {"coordinates":[-56.72909,-25.90174],"type":"Point"}
+}

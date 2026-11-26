@@ -1,0 +1,74 @@
+{
+  "id": 9895054381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.04987,-26.78882,-58.04987,-26.78882",
+    "geom:latitude":-26.78882,
+    "geom:longitude":-58.04987,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11714717: name \"Establecimiento Maidana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11714717"
+        },
+        {
+            "citation":"GeoNames populated place 11714717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11714717"
+        },
+        {
+            "citation":"GeoNames populated place 11714717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11714717"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692787 (Tacuaras), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11714717
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c0fff2a48a163cc4b833c5fa3f643ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692787,
+            "locality_id":9895054381,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054381,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Establecimiento Maidana",
+    "wof:parent_id":1108692787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.04987,
+    -26.78882,
+    -58.04987,
+    -26.78882
+],
+  "geometry": {"coordinates":[-58.04987,-26.78882],"type":"Point"}
+}

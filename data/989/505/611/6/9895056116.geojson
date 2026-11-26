@@ -1,0 +1,74 @@
+{
+  "id": 9895056116,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.59311,-25.26403,-54.59311,-25.26403",
+    "geom:latitude":-25.26403,
+    "geom:longitude":-54.59311,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770179: name \"Pir\u00e1-Pyt\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770179"
+        },
+        {
+            "citation":"GeoNames populated place 11770179: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770179"
+        },
+        {
+            "citation":"GeoNames populated place 11770179: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770179"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692579 (Santa Fe Del Parana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770179
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dca89234e3e2022e1062622911b8f5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692579,
+            "locality_id":9895056116,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895056116,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pir\u00e1-Pyt\u00e1",
+    "wof:parent_id":1108692579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.59311,
+    -25.26403,
+    -54.59311,
+    -25.26403
+],
+  "geometry": {"coordinates":[-54.59311,-25.26403],"type":"Point"}
+}

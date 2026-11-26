@@ -1,0 +1,74 @@
+{
+  "id": 9895055399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.60537,-24.35882,-56.60537,-24.35882",
+    "geom:latitude":-24.35882,
+    "geom:longitude":-56.60537,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744377: name \"Yurujhe\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744377"
+        },
+        {
+            "citation":"GeoNames populated place 11744377: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744377"
+        },
+        {
+            "citation":"GeoNames populated place 11744377: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744377"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692769 (General Elizardo Aquino), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744377
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e48809c9c38966f5187b1cf4458e618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692769,
+            "locality_id":9895055399,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055399,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Yurujhe\u00ed",
+    "wof:parent_id":1108692769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.60537,
+    -24.35882,
+    -56.60537,
+    -24.35882
+],
+  "geometry": {"coordinates":[-56.60537,-24.35882],"type":"Point"}
+}

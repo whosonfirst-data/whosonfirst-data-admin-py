@@ -1,0 +1,74 @@
+{
+  "id": 9895053862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21414,-26.77179,-56.21414,-26.77179",
+    "geom:latitude":-26.77179,
+    "geom:longitude":-56.21414,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438854: name \"Compa\u00f1\u00eda Potrero Yapepo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438854"
+        },
+        {
+            "citation":"GeoNames populated place 3438854: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438854"
+        },
+        {
+            "citation":"GeoNames populated place 3438854: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438854"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692667 (Leandro Oviedo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438854
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"af1a7b2a42fc1aa58eb416fd2b4de61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692667,
+            "locality_id":9895053862,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053862,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Potrero Yapepo",
+    "wof:parent_id":1108692667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21414,
+    -26.77179,
+    -56.21414,
+    -26.77179
+],
+  "geometry": {"coordinates":[-56.21414,-26.77179],"type":"Point"}
+}

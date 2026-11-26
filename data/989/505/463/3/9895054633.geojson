@@ -1,0 +1,74 @@
+{
+  "id": 9895054633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.93213,-24.53101,-55.93213,-24.53101",
+    "geom:latitude":-24.53101,
+    "geom:longitude":-55.93213,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719327: name \"Colonia R\u00edo Corrientes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719327"
+        },
+        {
+            "citation":"GeoNames populated place 11719327: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719327"
+        },
+        {
+            "citation":"GeoNames populated place 11719327: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719327"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692471 (Yasy Kany), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676719,
+        102191577,
+        1108692471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719327
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9aabb42e55de7b47482fc0e34882f99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692471,
+            "locality_id":9895054633,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":9895054633,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia R\u00edo Corrientes",
+    "wof:parent_id":1108692471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.93213,
+    -24.53101,
+    -55.93213,
+    -24.53101
+],
+  "geometry": {"coordinates":[-55.93213,-24.53101],"type":"Point"}
+}

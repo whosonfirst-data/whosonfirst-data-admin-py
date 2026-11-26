@@ -1,0 +1,74 @@
+{
+  "id": 9895055616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.90183,-24.72752,-56.90183,-24.72752",
+    "geom:latitude":-24.72752,
+    "geom:longitude":-56.90183,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11762726: name \"Estancia Pav\u00e1n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11762726"
+        },
+        {
+            "citation":"GeoNames populated place 11762726: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11762726"
+        },
+        {
+            "citation":"GeoNames populated place 11762726: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11762726"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692771 (Itacurubi Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11762726
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f9061fc348711e634da546452b601534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692771,
+            "locality_id":9895055616,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055616,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Pav\u00e1n",
+    "wof:parent_id":1108692771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.90183,
+    -24.72752,
+    -56.90183,
+    -24.72752
+],
+  "geometry": {"coordinates":[-56.90183,-24.72752],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.17592,-25.35791,-57.17592,-25.35791",
+    "geom:latitude":-25.35791,
+    "geom:longitude":-57.17592,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11731667: name \"Compa\u00f1\u00eda Caba\u00f1as\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11731667"
+        },
+        {
+            "citation":"GeoNames populated place 11731667: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11731667"
+        },
+        {
+            "citation":"GeoNames populated place 11731667: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11731667"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172673 (Caacupe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421172673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11731667
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"246c1a878a699262e0dc68902be5b247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421172673,
+            "locality_id":9895055018,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055018,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Caba\u00f1as",
+    "wof:parent_id":421172673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.17592,
+    -25.35791,
+    -57.17592,
+    -25.35791
+],
+  "geometry": {"coordinates":[-57.17592,-25.35791],"type":"Point"}
+}

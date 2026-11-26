@@ -1,0 +1,75 @@
+{
+  "id": 9895054076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.82264,-26.51513,-54.82264,-26.51513",
+    "geom:latitude":-26.51513,
+    "geom:longitude":-54.82264,
+    "gn:population":200,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695251: name \"Barrio Segunda L\u00ednea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695251"
+        },
+        {
+            "citation":"GeoNames populated place 11695251: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695251"
+        },
+        {
+            "citation":"GeoNames populated place 11695251: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695251"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692475 (Carlos Antonio Lopez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695251
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2673eb10845720d88c57aaa9dc7eea92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692475,
+            "locality_id":9895054076,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895054076,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Barrio Segunda L\u00ednea",
+    "wof:parent_id":1108692475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.82264,
+    -26.51513,
+    -54.82264,
+    -26.51513
+],
+  "geometry": {"coordinates":[-54.82264,-26.51513],"type":"Point"}
+}

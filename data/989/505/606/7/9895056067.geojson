@@ -1,0 +1,74 @@
+{
+  "id": 9895056067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.7137,-26.44103,-54.7137,-26.44103",
+    "geom:latitude":-26.44103,
+    "geom:longitude":-54.7137,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11769469: name \"Puerto Carlos Antonio L\u00f3pez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11769469"
+        },
+        {
+            "citation":"GeoNames populated place 11769469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11769469"
+        },
+        {
+            "citation":"GeoNames populated place 11769469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11769469"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692475 (Carlos Antonio Lopez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11769469
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3d6e0cf36b8e8bfab110f9633746ee84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692475,
+            "locality_id":9895056067,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895056067,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puerto Carlos Antonio L\u00f3pez",
+    "wof:parent_id":1108692475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.7137,
+    -26.44103,
+    -54.7137,
+    -26.44103
+],
+  "geometry": {"coordinates":[-54.7137,-26.44103],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.20332,-24.31056,-57.20332,-24.31056",
+    "geom:latitude":-24.31056,
+    "geom:longitude":-57.20332,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11764728: name \"Retiro Catalina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11764728"
+        },
+        {
+            "citation":"GeoNames populated place 11764728: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11764728"
+        },
+        {
+            "citation":"GeoNames populated place 11764728: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11764728"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171367 (Villa Hayes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676671,
+        102191577,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11764728
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"52e9f1529f00a6569a6f92367fbd2c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":9895055781,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":9895055781,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Retiro Catalina",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.20332,
+    -24.31056,
+    -57.20332,
+    -24.31056
+],
+  "geometry": {"coordinates":[-57.20332,-24.31056],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.95437,-25.58317,-56.95437,-25.58317",
+    "geom:latitude":-25.58317,
+    "geom:longitude":-56.95437,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721926: name \"Cerro Cor\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721926"
+        },
+        {
+            "citation":"GeoNames populated place 11721926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721926"
+        },
+        {
+            "citation":"GeoNames populated place 11721926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721926"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692713 (Escobar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721926
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a45ad3f10cc47d634b19c0f9db0dfcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692713,
+            "locality_id":9895054749,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054749,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Cerro Cor\u00e1",
+    "wof:parent_id":1108692713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.95437,
+    -25.58317,
+    -56.95437,
+    -25.58317
+],
+  "geometry": {"coordinates":[-56.95437,-25.58317],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895053863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.40181,-25.05077,-55.40181,-25.05077",
+    "geom:latitude":-25.05077,
+    "geom:longitude":-55.40181,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438855: name \"Compa\u00f1\u00eda Potrero Buli\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438855"
+        },
+        {
+            "citation":"GeoNames populated place 3438855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438855"
+        },
+        {
+            "citation":"GeoNames populated place 3438855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692653 (Mariscal Francisco Solano Lope), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438855
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0901d81af1985ee354f3d6746b335b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692653,
+            "locality_id":9895053863,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895053863,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Potrero Buli\u00f3n",
+    "wof:parent_id":1108692653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.40181,
+    -25.05077,
+    -55.40181,
+    -25.05077
+],
+  "geometry": {"coordinates":[-55.40181,-25.05077],"type":"Point"}
+}

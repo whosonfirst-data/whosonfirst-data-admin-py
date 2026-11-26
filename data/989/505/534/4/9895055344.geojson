@@ -1,0 +1,74 @@
+{
+  "id": 9895055344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.2321,-26.98625,-56.2321,-26.98625",
+    "geom:latitude":-26.98625,
+    "geom:longitude":-56.2321,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743561: name \"Estancia Loma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743561"
+        },
+        {
+            "citation":"GeoNames populated place 11743561: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743561"
+        },
+        {
+            "citation":"GeoNames populated place 11743561: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743561"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692545 (General Artigas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743561
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"03a58b042822dee174b46831cb82e7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692545,
+            "locality_id":9895055344,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055344,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Loma",
+    "wof:parent_id":1108692545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.2321,
+    -26.98625,
+    -56.2321,
+    -26.98625
+],
+  "geometry": {"coordinates":[-56.2321,-26.98625],"type":"Point"}
+}

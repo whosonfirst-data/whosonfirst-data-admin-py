@@ -1,0 +1,74 @@
+{
+  "id": 9895054245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.3851,-26.76412,-57.3851,-26.76412",
+    "geom:latitude":-26.76412,
+    "geom:longitude":-57.3851,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712892: name \"Puesto Chaves\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712892"
+        },
+        {
+            "citation":"GeoNames populated place 11712892: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712892"
+        },
+        {
+            "citation":"GeoNames populated place 11712892: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712892"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180931 (San Juan Bautista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421180931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712892
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c2ce66c73ca8e36516136d6726ee5263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421180931,
+            "locality_id":9895054245,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054245,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puesto Chaves",
+    "wof:parent_id":421180931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.3851,
+    -26.76412,
+    -57.3851,
+    -26.76412
+],
+  "geometry": {"coordinates":[-57.3851,-26.76412],"type":"Point"}
+}

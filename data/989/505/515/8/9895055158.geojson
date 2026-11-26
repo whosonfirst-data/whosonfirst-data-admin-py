@@ -1,0 +1,74 @@
+{
+  "id": 9895055158,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.54776,-24.75025,-56.54776,-24.75025",
+    "geom:latitude":-24.75025,
+    "geom:longitude":-56.54776,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11733324: name \"Santa Ana I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11733324"
+        },
+        {
+            "citation":"GeoNames populated place 11733324: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11733324"
+        },
+        {
+            "citation":"GeoNames populated place 11733324: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11733324"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189517 (San Estanislao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        421189517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11733324
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"21247dd6cfbfaecdaf0dd3a31ed90a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189517,
+            "locality_id":9895055158,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055158,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Santa Ana I",
+    "wof:parent_id":421189517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.54776,
+    -24.75025,
+    -56.54776,
+    -24.75025
+],
+  "geometry": {"coordinates":[-56.54776,-24.75025],"type":"Point"}
+}

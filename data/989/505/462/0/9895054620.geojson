@@ -1,0 +1,74 @@
+{
+  "id": 9895054620,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9948,-24.52933,-55.9948,-24.52933",
+    "geom:latitude":-24.52933,
+    "geom:longitude":-55.9948,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11718856: name \"Planchada Vacap\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11718856"
+        },
+        {
+            "citation":"GeoNames populated place 11718856: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11718856"
+        },
+        {
+            "citation":"GeoNames populated place 11718856: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11718856"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692497 (Yryvu Cua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11718856
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e3ea29105aacbea1ed55f472de2fdb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692497,
+            "locality_id":9895054620,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895054620,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Planchada Vacap\u00ed",
+    "wof:parent_id":1108692497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9948,
+    -24.52933,
+    -55.9948,
+    -24.52933
+],
+  "geometry": {"coordinates":[-55.9948,-24.52933],"type":"Point"}
+}

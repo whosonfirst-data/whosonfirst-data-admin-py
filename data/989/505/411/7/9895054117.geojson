@@ -1,0 +1,74 @@
+{
+  "id": 9895054117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.91062,-27.37073,-56.91062,-27.37073",
+    "geom:latitude":-27.37073,
+    "geom:longitude":-56.91062,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11712432: name \"Colonia Coey\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11712432"
+        },
+        {
+            "citation":"GeoNames populated place 11712432: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11712432"
+        },
+        {
+            "citation":"GeoNames populated place 11712432: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11712432"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204309 (Ayolas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        421204309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11712432
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5ae1004265efcfb0c7913fcc4f0c88a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204309,
+            "locality_id":9895054117,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895054117,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Coey\u00fa",
+    "wof:parent_id":421204309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.91062,
+    -27.37073,
+    -56.91062,
+    -27.37073
+],
+  "geometry": {"coordinates":[-56.91062,-27.37073],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054884,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.30472,-25.37226,-57.30472,-25.37226",
+    "geom:latitude":-25.37226,
+    "geom:longitude":-57.30472,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11730753: name \"Mbokajaty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11730753"
+        },
+        {
+            "citation":"GeoNames populated place 11730753: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11730753"
+        },
+        {
+            "citation":"GeoNames populated place 11730753: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11730753"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170009 (Ypacarai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        421170009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11730753
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"828bd269951e5d7daa610e3186ebe5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170009,
+            "locality_id":9895054884,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054884,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mbokajaty",
+    "wof:parent_id":421170009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.30472,
+    -25.37226,
+    -57.30472,
+    -25.37226
+],
+  "geometry": {"coordinates":[-57.30472,-25.37226],"type":"Point"}
+}

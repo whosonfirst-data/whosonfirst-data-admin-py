@@ -1,0 +1,74 @@
+{
+  "id": 9895056164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.36713,-25.39124,-56.36713,-25.39124",
+    "geom:latitude":-25.39124,
+    "geom:longitude":-56.36713,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11771873: name \"Estero Tacuary\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11771873"
+        },
+        {
+            "citation":"GeoNames populated place 11771873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11771873"
+        },
+        {
+            "citation":"GeoNames populated place 11771873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11771873"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692647 (R.i. 3 Corrales), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11771873
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c7cb5f5673dc4cbd98840312052661c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692647,
+            "locality_id":9895056164,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056164,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estero Tacuary",
+    "wof:parent_id":1108692647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.36713,
+    -25.39124,
+    -56.36713,
+    -25.39124
+],
+  "geometry": {"coordinates":[-56.36713,-25.39124],"type":"Point"}
+}

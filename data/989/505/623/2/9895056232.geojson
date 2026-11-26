@@ -1,0 +1,74 @@
+{
+  "id": 9895056232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.08917,-25.98415,-56.08917,-25.98415",
+    "geom:latitude":-25.98415,
+    "geom:longitude":-56.08917,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773077: name \"Santan\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773077"
+        },
+        {
+            "citation":"GeoNames populated place 11773077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773077"
+        },
+        {
+            "citation":"GeoNames populated place 11773077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773077"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692605 (Jose Fassardi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        1108692605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773077
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"862d87991befc1390873a9651486a466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692605,
+            "locality_id":9895056232,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056232,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Santan\u00ed",
+    "wof:parent_id":1108692605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.08917,
+    -25.98415,
+    -56.08917,
+    -25.98415
+],
+  "geometry": {"coordinates":[-56.08917,-25.98415],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.46033,-25.42868,-56.46033,-25.42868",
+    "geom:latitude":-25.42868,
+    "geom:longitude":-56.46033,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12169835: name \"Pozo Azul\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12169835"
+        },
+        {
+            "citation":"GeoNames populated place 12169835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12169835"
+        },
+        {
+            "citation":"GeoNames populated place 12169835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12169835"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184207 (Coronel Oviedo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12169835
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7aff6aeb3f5e2f8b5fc8db799dfacc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":9895056353,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056353,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pozo Azul",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.46033,
+    -25.42868,
+    -56.46033,
+    -25.42868
+],
+  "geometry": {"coordinates":[-56.46033,-25.42868],"type":"Point"}
+}

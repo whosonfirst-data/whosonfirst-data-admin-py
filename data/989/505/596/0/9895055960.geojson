@@ -1,0 +1,74 @@
+{
+  "id": 9895055960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.80802,-23.45931,-60.80802,-23.45931",
+    "geom:latitude":-23.45931,
+    "geom:longitude":-60.80802,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767443: name \"Estancia Rosarito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767443"
+        },
+        {
+            "citation":"GeoNames populated place 11767443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767443"
+        },
+        {
+            "citation":"GeoNames populated place 11767443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171777 (Mariscal Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676659,
+        102191577,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767443
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9d0e84d258698540c059a90f59e8fcc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":9895055960,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":9895055960,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Rosarito",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.80802,
+    -23.45931,
+    -60.80802,
+    -23.45931
+],
+  "geometry": {"coordinates":[-60.80802,-23.45931],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.87025,-25.62394,-56.87025,-25.62394",
+    "geom:latitude":-25.62394,
+    "geom:longitude":-56.87025,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721915: name \"Compa\u00f1\u00eda Curupayty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721915"
+        },
+        {
+            "citation":"GeoNames populated place 11721915: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721915"
+        },
+        {
+            "citation":"GeoNames populated place 11721915: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721915"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201649 (Valenzuela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        421201649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721915
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"25c4a0559acd478387769b609d351550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201649,
+            "locality_id":9895054740,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895054740,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Curupayty",
+    "wof:parent_id":421201649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.87025,
+    -25.62394,
+    -56.87025,
+    -25.62394
+],
+  "geometry": {"coordinates":[-56.87025,-25.62394],"type":"Point"}
+}

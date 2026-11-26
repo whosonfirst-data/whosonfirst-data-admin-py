@@ -1,0 +1,74 @@
+{
+  "id": 9895055437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.29313,-24.00528,-56.29313,-24.00528",
+    "geom:latitude":-24.00528,
+    "geom:longitude":-56.29313,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744611: name \"Colonia Naranjito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744611"
+        },
+        {
+            "citation":"GeoNames populated place 11744611: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744611"
+        },
+        {
+            "citation":"GeoNames populated place 11744611: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744611"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692485 (General Resquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744611
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cc90a97b950ed5f8a0aa3fac5404c2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692485,
+            "locality_id":9895055437,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055437,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia Naranjito",
+    "wof:parent_id":1108692485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.29313,
+    -24.00528,
+    -56.29313,
+    -24.00528
+],
+  "geometry": {"coordinates":[-56.29313,-24.00528],"type":"Point"}
+}

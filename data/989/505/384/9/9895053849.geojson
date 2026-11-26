@@ -1,0 +1,74 @@
+{
+  "id": 9895053849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.42905,-26.17359,-56.42905,-26.17359",
+    "geom:latitude":-26.17359,
+    "geom:longitude":-56.42905,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438807: name \"Costa Dulce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438807"
+        },
+        {
+            "citation":"GeoNames populated place 3438807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438807"
+        },
+        {
+            "citation":"GeoNames populated place 3438807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438807"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692849 (Maciel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438807
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f5d6bb25c08aab0bd59e0577359c5d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692849,
+            "locality_id":9895053849,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895053849,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Costa Dulce",
+    "wof:parent_id":1108692849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.42905,
+    -26.17359,
+    -56.42905,
+    -26.17359
+],
+  "geometry": {"coordinates":[-56.42905,-26.17359],"type":"Point"}
+}

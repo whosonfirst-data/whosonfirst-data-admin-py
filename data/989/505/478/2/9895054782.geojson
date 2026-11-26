@@ -1,0 +1,74 @@
+{
+  "id": 9895054782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.84444,-25.92068,-56.84444,-25.92068",
+    "geom:latitude":-25.92068,
+    "geom:longitude":-56.84444,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11722306: name \"Yajhapety\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11722306"
+        },
+        {
+            "citation":"GeoNames populated place 11722306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11722306"
+        },
+        {
+            "citation":"GeoNames populated place 11722306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11722306"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692715 (La Colmena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11722306
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"defaa63bfc32c83a9eaf383577e4d162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692715,
+            "locality_id":9895054782,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054782,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Yajhapety",
+    "wof:parent_id":1108692715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.84444,
+    -25.92068,
+    -56.84444,
+    -25.92068
+],
+  "geometry": {"coordinates":[-56.84444,-25.92068],"type":"Point"}
+}

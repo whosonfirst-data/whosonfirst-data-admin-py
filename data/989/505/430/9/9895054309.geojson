@@ -1,0 +1,74 @@
+{
+  "id": 9895054309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55354,-27.18314,-58.55354,-27.18314",
+    "geom:latitude":-27.18314,
+    "geom:longitude":-58.55354,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713357: name \"Boquer\u00f3n y Sauce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713357"
+        },
+        {
+            "citation":"GeoNames populated place 11713357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713357"
+        },
+        {
+            "citation":"GeoNames populated place 11713357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713357"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170011 (Paso De Patria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        421170011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713357
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"fc44f82dd28cd9975c2a9f65d2f0d6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170011,
+            "locality_id":9895054309,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054309,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Boquer\u00f3n y Sauce",
+    "wof:parent_id":421170011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55354,
+    -27.18314,
+    -58.55354,
+    -27.18314
+],
+  "geometry": {"coordinates":[-58.55354,-27.18314],"type":"Point"}
+}

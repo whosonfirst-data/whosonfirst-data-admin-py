@@ -1,0 +1,74 @@
+{
+  "id": 9895053972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.10401,-27.0943,-56.10401,-27.0943",
+    "geom:latitude":-27.0943,
+    "geom:longitude":-56.10401,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11684157: name \"Compa\u00f1\u00eda Cambay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11684157"
+        },
+        {
+            "citation":"GeoNames populated place 11684157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11684157"
+        },
+        {
+            "citation":"GeoNames populated place 11684157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11684157"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189519 (Carmen Del Parana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421189519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11684157
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"52cf65718296856fdd4b20d3e189c663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189519,
+            "locality_id":9895053972,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053972,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Cambay",
+    "wof:parent_id":421189519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.10401,
+    -27.0943,
+    -56.10401,
+    -27.0943
+],
+  "geometry": {"coordinates":[-56.10401,-27.0943],"type":"Point"}
+}

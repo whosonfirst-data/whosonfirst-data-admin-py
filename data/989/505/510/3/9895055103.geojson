@@ -1,0 +1,74 @@
+{
+  "id": 9895055103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.55814,-24.61851,-56.55814,-24.61851",
+    "geom:latitude":-24.61851,
+    "geom:longitude":-56.55814,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11732143: name \"Compa\u00f1\u00eda Costa Barrero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11732143"
+        },
+        {
+            "citation":"GeoNames populated place 11732143: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11732143"
+        },
+        {
+            "citation":"GeoNames populated place 11732143: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11732143"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189517 (San Estanislao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        421189517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11732143
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"71be51d2f5951c191abc358eef2ad04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189517,
+            "locality_id":9895055103,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055103,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Costa Barrero",
+    "wof:parent_id":421189517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.55814,
+    -24.61851,
+    -56.55814,
+    -24.61851
+],
+  "geometry": {"coordinates":[-56.55814,-24.61851],"type":"Point"}
+}

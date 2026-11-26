@@ -1,0 +1,74 @@
+{
+  "id": 9895055358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.54294,-26.99382,-55.54294,-26.99382",
+    "geom:latitude":-26.99382,
+    "geom:longitude":-55.54294,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743831: name \"Kil\u00f3metro Diez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743831"
+        },
+        {
+            "citation":"GeoNames populated place 11743831: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743831"
+        },
+        {
+            "citation":"GeoNames populated place 11743831: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743831"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692863 (Bella Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743831
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"77c6e940f42d1a0001e50a5d06c1f8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692863,
+            "locality_id":9895055358,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055358,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kil\u00f3metro Diez",
+    "wof:parent_id":1108692863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.54294,
+    -26.99382,
+    -55.54294,
+    -26.99382
+],
+  "geometry": {"coordinates":[-55.54294,-26.99382],"type":"Point"}
+}

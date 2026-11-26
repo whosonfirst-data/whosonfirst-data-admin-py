@@ -1,0 +1,74 @@
+{
+  "id": 9895056325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.17404,-26.0377,-56.17404,-26.0377",
+    "geom:latitude":-26.0377,
+    "geom:longitude":-56.17404,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11774298: name \"\u00d1u Pua Jhu Mi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11774298"
+        },
+        {
+            "citation":"GeoNames populated place 11774298: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11774298"
+        },
+        {
+            "citation":"GeoNames populated place 11774298: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11774298"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172933 (General Eugenio A. Garay), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676685,
+        102191577,
+        421172933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11774298
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1cfc19959d9a1696ce35d137304f9e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421172933,
+            "locality_id":9895056325,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":9895056325,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u00d1u Pua Jhu Mi",
+    "wof:parent_id":421172933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.17404,
+    -26.0377,
+    -56.17404,
+    -26.0377
+],
+  "geometry": {"coordinates":[-56.17404,-26.0377],"type":"Point"}
+}

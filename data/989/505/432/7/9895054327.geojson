@@ -1,0 +1,74 @@
+{
+  "id": 9895054327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.10283,-27.19247,-58.10283,-27.19247",
+    "geom:latitude":-27.19247,
+    "geom:longitude":-58.10283,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713414: name \"Estancia Jara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713414"
+        },
+        {
+            "citation":"GeoNames populated place 11713414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713414"
+        },
+        {
+            "citation":"GeoNames populated place 11713414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713414"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692807 (Mayor Martinez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713414
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cb96040cfc300adc8f9f9dd13f4fd641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692807,
+            "locality_id":9895054327,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054327,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Jara",
+    "wof:parent_id":1108692807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.10283,
+    -27.19247,
+    -58.10283,
+    -27.19247
+],
+  "geometry": {"coordinates":[-58.10283,-27.19247],"type":"Point"}
+}

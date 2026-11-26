@@ -1,0 +1,74 @@
+{
+  "id": 9895054308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.54098,-27.20029,-58.54098,-27.20029",
+    "geom:latitude":-27.20029,
+    "geom:longitude":-58.54098,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11713356: name \"Tuyut\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11713356"
+        },
+        {
+            "citation":"GeoNames populated place 11713356: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11713356"
+        },
+        {
+            "citation":"GeoNames populated place 11713356: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11713356"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170011 (Paso De Patria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        421170011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11713356
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"41cf012ed6fcbdc53f62dc72f8423794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170011,
+            "locality_id":9895054308,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054308,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tuyut\u00ed",
+    "wof:parent_id":421170011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.54098,
+    -27.20029,
+    -58.54098,
+    -27.20029
+],
+  "geometry": {"coordinates":[-58.54098,-27.20029],"type":"Point"}
+}

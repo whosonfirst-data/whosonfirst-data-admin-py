@@ -1,0 +1,74 @@
+{
+  "id": 9895055260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.01454,-25.07612,-57.01454,-25.07612",
+    "geom:latitude":-25.07612,
+    "geom:longitude":-57.01454,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11742865: name \"Compa\u00f1\u00eda Caaguy Cup\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11742865"
+        },
+        {
+            "citation":"GeoNames populated place 11742865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11742865"
+        },
+        {
+            "citation":"GeoNames populated place 11742865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11742865"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692523 (Primero De Marzo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676667,
+        102191577,
+        1108692523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11742865
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"6b8bbe78c96a190d42672dc46c707222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692523,
+            "locality_id":9895055260,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":9895055260,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Caaguy Cup\u00e9",
+    "wof:parent_id":1108692523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.01454,
+    -25.07612,
+    -57.01454,
+    -25.07612
+],
+  "geometry": {"coordinates":[-57.01454,-25.07612],"type":"Point"}
+}

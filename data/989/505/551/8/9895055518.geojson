@@ -1,0 +1,74 @@
+{
+  "id": 9895055518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.63575,-26.58142,-55.63575,-26.58142",
+    "geom:latitude":-26.58142,
+    "geom:longitude":-55.63575,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11761921: name \"Potrero Taguato\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11761921"
+        },
+        {
+            "citation":"GeoNames populated place 11761921: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11761921"
+        },
+        {
+            "citation":"GeoNames populated place 11761921: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11761921"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184635 (Alto Vera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421184635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11761921
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"843d7961db7a983a1d7552d6b3c4ce85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184635,
+            "locality_id":9895055518,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895055518,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Potrero Taguato",
+    "wof:parent_id":421184635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.63575,
+    -26.58142,
+    -55.63575,
+    -26.58142
+],
+  "geometry": {"coordinates":[-55.63575,-26.58142],"type":"Point"}
+}

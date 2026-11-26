@@ -1,0 +1,74 @@
+{
+  "id": 9895053833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.26959,-23.93011,-56.26959,-23.93011",
+    "geom:latitude":-23.93011,
+    "geom:longitude":-56.26959,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3437969: name \"Isla Alta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3437969"
+        },
+        {
+            "citation":"GeoNames populated place 3437969: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3437969"
+        },
+        {
+            "citation":"GeoNames populated place 3437969: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3437969"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692485 (General Resquin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437969
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"adba8753215ae67d437c91b59e992f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692485,
+            "locality_id":9895053833,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895053833,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Isla Alta",
+    "wof:parent_id":1108692485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.26959,
+    -23.93011,
+    -56.26959,
+    -23.93011
+],
+  "geometry": {"coordinates":[-56.26959,-23.93011],"type":"Point"}
+}

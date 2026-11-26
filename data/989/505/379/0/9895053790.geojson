@@ -1,0 +1,74 @@
+{
+  "id": 9895053790,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.88367,-26.94835,-55.88367,-26.94835",
+    "geom:latitude":-26.94835,
+    "geom:longitude":-55.88367,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3436964: name \"Santa Rosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3436964"
+        },
+        {
+            "citation":"GeoNames populated place 3436964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3436964"
+        },
+        {
+            "citation":"GeoNames populated place 3436964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3436964"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692683 (La Paz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436964
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"831141da26a533e380495eec2a392254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692683,
+            "locality_id":9895053790,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053790,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108692683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.88367,
+    -26.94835,
+    -55.88367,
+    -26.94835
+],
+  "geometry": {"coordinates":[-55.88367,-26.94835],"type":"Point"}
+}

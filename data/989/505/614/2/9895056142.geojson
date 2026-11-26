@@ -1,0 +1,74 @@
+{
+  "id": 9895056142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.54341,-25.26036,-56.54341,-25.26036",
+    "geom:latitude":-25.26036,
+    "geom:longitude":-56.54341,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11770905: name \"Compa\u00f1\u00eda San Antonio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11770905"
+        },
+        {
+            "citation":"GeoNames populated place 11770905: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11770905"
+        },
+        {
+            "citation":"GeoNames populated place 11770905: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11770905"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692655 (La Pastora), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11770905
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"03e81c0041fe6fe7e3ad040f5158bdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692655,
+            "locality_id":9895056142,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056142,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Antonio",
+    "wof:parent_id":1108692655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.54341,
+    -25.26036,
+    -56.54341,
+    -25.26036
+],
+  "geometry": {"coordinates":[-56.54341,-25.26036],"type":"Point"}
+}

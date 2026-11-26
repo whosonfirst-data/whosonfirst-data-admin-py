@@ -1,0 +1,74 @@
+{
+  "id": 9895055979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.61883,-25.89396,-54.61883,-25.89396",
+    "geom:latitude":-25.89396,
+    "geom:longitude":-54.61883,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767503: name \"Pira Pyt\u00e3-M\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767503"
+        },
+        {
+            "citation":"GeoNames populated place 11767503: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767503"
+        },
+        {
+            "citation":"GeoNames populated place 11767503: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767503"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692737 (Domingo Martinez De Irala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676705,
+        102191577,
+        1108692737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767503
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"80fbc0ec4889b50a682f3fc8d2c91dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692737,
+            "locality_id":9895055979,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":9895055979,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pira Pyt\u00e3-M\u00ed",
+    "wof:parent_id":1108692737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.61883,
+    -25.89396,
+    -54.61883,
+    -25.89396
+],
+  "geometry": {"coordinates":[-54.61883,-25.89396],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.0843,-26.02708,-56.0843,-26.02708",
+    "geom:latitude":-26.02708,
+    "geom:longitude":-56.0843,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11774267: name \"General Higinio Mor\u00ednigo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11774267"
+        },
+        {
+            "citation":"GeoNames populated place 11774267: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11774267"
+        },
+        {
+            "citation":"GeoNames populated place 11774267: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11774267"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692847 (General Higinio Morinigo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676713,
+        102191577,
+        1108692847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11774267
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"53cfc18ada12f81827f1ca817f92a38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692847,
+            "locality_id":9895056301,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":9895056301,
+    "wof:lastmodified":1795734962,
+    "wof:name":"General Higinio Mor\u00ednigo",
+    "wof:parent_id":1108692847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.0843,
+    -26.02708,
+    -56.0843,
+    -26.02708
+],
+  "geometry": {"coordinates":[-56.0843,-26.02708],"type":"Point"}
+}

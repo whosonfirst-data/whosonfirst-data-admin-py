@@ -1,0 +1,74 @@
+{
+  "id": 9895056002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.64208,-25.27725,-55.64208,-25.27725",
+    "geom:latitude":-25.27725,
+    "geom:longitude":-55.64208,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767613: name \"Bergthal Campo Siete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767613"
+        },
+        {
+            "citation":"GeoNames populated place 11767613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767613"
+        },
+        {
+            "citation":"GeoNames populated place 11767613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767613"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692645 (J Eulogio Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767613
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f653f9ff967f5ea475c628bb17ffdd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":9895056002,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056002,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bergthal Campo Siete",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.64208,
+    -25.27725,
+    -55.64208,
+    -25.27725
+],
+  "geometry": {"coordinates":[-55.64208,-25.27725],"type":"Point"}
+}

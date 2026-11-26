@@ -1,0 +1,74 @@
+{
+  "id": 9895054737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.93691,-25.63189,-56.93691,-25.63189",
+    "geom:latitude":-25.63189,
+    "geom:longitude":-56.93691,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11721911: name \"San Francisco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11721911"
+        },
+        {
+            "citation":"GeoNames populated place 11721911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11721911"
+        },
+        {
+            "citation":"GeoNames populated place 11721911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11721911"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191497 (Sapucai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        421191497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11721911
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8f789779a168b8a22972b1423f8b971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421191497,
+            "locality_id":9895054737,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895054737,
+    "wof:lastmodified":1795734962,
+    "wof:name":"San Francisco",
+    "wof:parent_id":421191497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.93691,
+    -25.63189,
+    -56.93691,
+    -25.63189
+],
+  "geometry": {"coordinates":[-56.93691,-25.63189],"type":"Point"}
+}

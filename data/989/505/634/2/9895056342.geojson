@@ -1,0 +1,74 @@
+{
+  "id": 9895056342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.40259,-25.47129,-56.40259,-25.47129",
+    "geom:latitude":-25.47129,
+    "geom:longitude":-56.40259,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12169813: name \"Villa San Francisco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12169813"
+        },
+        {
+            "citation":"GeoNames populated place 12169813: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12169813"
+        },
+        {
+            "citation":"GeoNames populated place 12169813: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12169813"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184207 (Coronel Oviedo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12169813
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3f315b60afdb455a724e377e95227ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":9895056342,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895056342,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Villa San Francisco",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.40259,
+    -25.47129,
+    -56.40259,
+    -25.47129
+],
+  "geometry": {"coordinates":[-56.40259,-25.47129],"type":"Point"}
+}

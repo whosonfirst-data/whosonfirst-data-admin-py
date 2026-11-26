@@ -1,0 +1,74 @@
+{
+  "id": 9895055211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.77167,-24.91513,-55.77167,-24.91513",
+    "geom:latitude":-24.91513,
+    "geom:longitude":-55.77167,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11739550: name \"Deposito Cu\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11739550"
+        },
+        {
+            "citation":"GeoNames populated place 11739550: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11739550"
+        },
+        {
+            "citation":"GeoNames populated place 11739550: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11739550"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692643 (Yhu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11739550
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"de5d9997337605ab2ea76b9a03d0c41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692643,
+            "locality_id":9895055211,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055211,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Deposito Cu\u00e9",
+    "wof:parent_id":1108692643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.77167,
+    -24.91513,
+    -55.77167,
+    -24.91513
+],
+  "geometry": {"coordinates":[-55.77167,-24.91513],"type":"Point"}
+}

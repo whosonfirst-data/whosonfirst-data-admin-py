@@ -1,0 +1,74 @@
+{
+  "id": 9895054398,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.10567,-26.87247,-58.10567,-26.87247",
+    "geom:latitude":-26.87247,
+    "geom:longitude":-58.10567,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11714799: name \"Carandayt\u00fd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11714799"
+        },
+        {
+            "citation":"GeoNames populated place 11714799: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11714799"
+        },
+        {
+            "citation":"GeoNames populated place 11714799: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11714799"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692805 (Guazu Cua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11714799
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"326ab5b82bf6e8c8a1a977dde1d3fccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692805,
+            "locality_id":9895054398,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054398,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Carandayt\u00fd",
+    "wof:parent_id":1108692805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.10567,
+    -26.87247,
+    -58.10567,
+    -26.87247
+],
+  "geometry": {"coordinates":[-58.10567,-26.87247],"type":"Point"}
+}

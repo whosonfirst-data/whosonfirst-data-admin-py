@@ -1,0 +1,74 @@
+{
+  "id": 9895055965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.26668,-23.37049,-60.26668,-23.37049",
+    "geom:latitude":-23.37049,
+    "geom:longitude":-60.26668,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767450: name \"Estancia Palma Alta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767450"
+        },
+        {
+            "citation":"GeoNames populated place 11767450: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767450"
+        },
+        {
+            "citation":"GeoNames populated place 11767450: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767450"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171777 (Mariscal Estigarribia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676659,
+        102191577,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767450
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7e8c15cc9e7c7cee484be7a0641a7951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":9895055965,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":9895055965,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Palma Alta",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.26668,
+    -23.37049,
+    -60.26668,
+    -23.37049
+],
+  "geometry": {"coordinates":[-60.26668,-23.37049],"type":"Point"}
+}

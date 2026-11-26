@@ -1,0 +1,74 @@
+{
+  "id": 9895055994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.74169,-25.38582,-55.74169,-25.38582",
+    "geom:latitude":-25.38582,
+    "geom:longitude":-55.74169,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11767605: name \"Campo Once Halbstadt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11767605"
+        },
+        {
+            "citation":"GeoNames populated place 11767605: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11767605"
+        },
+        {
+            "citation":"GeoNames populated place 11767605: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11767605"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692631 (Dr. Juan Manuel Frutos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11767605
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"418389468f180e4a4dfdc8282ea78f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692631,
+            "locality_id":9895055994,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055994,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Campo Once Halbstadt",
+    "wof:parent_id":1108692631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.74169,
+    -25.38582,
+    -55.74169,
+    -25.38582
+],
+  "geometry": {"coordinates":[-55.74169,-25.38582],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.76703,-24.48567,-56.76703,-24.48567",
+    "geom:latitude":-24.48567,
+    "geom:longitude":-56.76703,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744929: name \"Compa\u00f1\u00eda Yateb\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744929"
+        },
+        {
+            "citation":"GeoNames populated place 11744929: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744929"
+        },
+        {
+            "citation":"GeoNames populated place 11744929: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744929"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692771 (Itacurubi Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744929
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5fed1910f3c401a2a668c8287e4498f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692771,
+            "locality_id":9895055486,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055486,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Yateb\u00fa",
+    "wof:parent_id":1108692771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.76703,
+    -24.48567,
+    -56.76703,
+    -24.48567
+],
+  "geometry": {"coordinates":[-56.76703,-24.48567],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895055873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.88763,-25.08916,-55.88763,-25.08916",
+    "geom:latitude":-25.08916,
+    "geom:longitude":-55.88763,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11766590: name \"Compa\u00f1\u00eda Potrero Cora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11766590"
+        },
+        {
+            "citation":"GeoNames populated place 11766590: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11766590"
+        },
+        {
+            "citation":"GeoNames populated place 11766590: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11766590"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692643 (Yhu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676709,
+        102191577,
+        1108692643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11766590
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8aeb746ea4a94303516278897229717b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692643,
+            "locality_id":9895055873,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":9895055873,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Potrero Cora",
+    "wof:parent_id":1108692643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.88763,
+    -25.08916,
+    -55.88763,
+    -25.08916
+],
+  "geometry": {"coordinates":[-55.88763,-25.08916],"type":"Point"}
+}

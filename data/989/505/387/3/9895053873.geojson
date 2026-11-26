@@ -1,0 +1,74 @@
+{
+  "id": 9895053873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.73387,-26.94912,-56.73387,-26.94912",
+    "geom:latitude":-26.94912,
+    "geom:longitude":-56.73387,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438923: name \"Colonia San Solano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438923"
+        },
+        {
+            "citation":"GeoNames populated place 3438923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438923"
+        },
+        {
+            "citation":"GeoNames populated place 3438923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692699 (Santa Rosa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676689,
+        102191577,
+        1108692699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438923
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5fa21ded5b89248eb335c1f585227a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692699,
+            "locality_id":9895053873,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":9895053873,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia San Solano",
+    "wof:parent_id":1108692699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.73387,
+    -26.94912,
+    -56.73387,
+    -26.94912
+],
+  "geometry": {"coordinates":[-56.73387,-26.94912],"type":"Point"}
+}

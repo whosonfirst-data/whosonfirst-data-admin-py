@@ -1,0 +1,74 @@
+{
+  "id": 9895055457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.90418,-24.10991,-56.90418,-24.10991",
+    "geom:latitude":-24.10991,
+    "geom:longitude":-56.90418,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744855: name \"Compa\u00f1\u00eda Cerrito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744855"
+        },
+        {
+            "citation":"GeoNames populated place 11744855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744855"
+        },
+        {
+            "citation":"GeoNames populated place 11744855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692823 (San Pablo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744855
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d6661875d3c2859241089979ca303393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692823,
+            "locality_id":9895055457,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055457,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Cerrito",
+    "wof:parent_id":1108692823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.90418,
+    -24.10991,
+    -56.90418,
+    -24.10991
+],
+  "geometry": {"coordinates":[-56.90418,-24.10991],"type":"Point"}
+}

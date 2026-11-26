@@ -1,0 +1,74 @@
+{
+  "id": 9895053842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.27936,-25.72841,-57.27936,-25.72841",
+    "geom:latitude":-25.72841,
+    "geom:longitude":-57.27936,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438728: name \"Espartillar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438728"
+        },
+        {
+            "citation":"GeoNames populated place 3438728: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438728"
+        },
+        {
+            "citation":"GeoNames populated place 3438728: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438728"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170015 (Carapegua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        421170015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438728
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a556f07d224f37d22983e184b55e7acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170015,
+            "locality_id":9895053842,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895053842,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Espartillar",
+    "wof:parent_id":421170015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.27936,
+    -25.72841,
+    -57.27936,
+    -25.72841
+],
+  "geometry": {"coordinates":[-57.27936,-25.72841],"type":"Point"}
+}

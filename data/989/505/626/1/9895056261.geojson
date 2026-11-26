@@ -1,0 +1,74 @@
+{
+  "id": 9895056261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.74669,-26.12242,-56.74669,-26.12242",
+    "geom:latitude":-26.12242,
+    "geom:longitude":-56.74669,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773515: name \"\u00d1\u00fa Apu\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773515"
+        },
+        {
+            "citation":"GeoNames populated place 11773515: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773515"
+        },
+        {
+            "citation":"GeoNames populated place 11773515: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773515"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692717 (Mbuyapey), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676699,
+        102191577,
+        1108692717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773515
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8751f223e8a01892e027af63dd21df21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692717,
+            "locality_id":9895056261,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":9895056261,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u00d1\u00fa Apu\u00e1",
+    "wof:parent_id":1108692717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.74669,
+    -26.12242,
+    -56.74669,
+    -26.12242
+],
+  "geometry": {"coordinates":[-56.74669,-26.12242],"type":"Point"}
+}

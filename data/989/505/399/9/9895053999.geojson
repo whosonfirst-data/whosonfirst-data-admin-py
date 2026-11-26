@@ -1,0 +1,74 @@
+{
+  "id": 9895053999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.33303,-27.32769,-56.33303,-27.32769",
+    "geom:latitude":-27.32769,
+    "geom:longitude":-56.33303,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11685345: name \"Naucu\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11685345"
+        },
+        {
+            "citation":"GeoNames populated place 11685345: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11685345"
+        },
+        {
+            "citation":"GeoNames populated place 11685345: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11685345"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171423 (San Cosme Y Damian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        421171423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11685345
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"71e1b31e6c0cdc75d2a7071fe996feb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171423,
+            "locality_id":9895053999,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053999,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Naucu\u00e1",
+    "wof:parent_id":421171423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.33303,
+    -27.32769,
+    -56.33303,
+    -27.32769
+],
+  "geometry": {"coordinates":[-56.33303,-27.32769],"type":"Point"}
+}

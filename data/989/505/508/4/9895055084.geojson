@@ -1,0 +1,74 @@
+{
+  "id": 9895055084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.71234,-24.61661,-56.71234,-24.61661",
+    "geom:latitude":-24.61661,
+    "geom:longitude":-56.71234,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11732121: name \"Colonia N\u00famero Trece\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11732121"
+        },
+        {
+            "citation":"GeoNames populated place 11732121: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11732121"
+        },
+        {
+            "citation":"GeoNames populated place 11732121: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11732121"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692771 (Itacurubi Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11732121
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"690ac00ad44d9bd1308e40593e3a4565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692771,
+            "locality_id":9895055084,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055084,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Colonia N\u00famero Trece",
+    "wof:parent_id":1108692771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.71234,
+    -24.61661,
+    -56.71234,
+    -24.61661
+],
+  "geometry": {"coordinates":[-56.71234,-24.61661],"type":"Point"}
+}

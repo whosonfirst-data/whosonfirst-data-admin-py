@@ -1,0 +1,74 @@
+{
+  "id": 9895054541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.01833,-26.18305,-58.01833,-26.18305",
+    "geom:latitude":-26.18305,
+    "geom:longitude":-58.01833,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11717204: name \"Establecimiento G\u00f3mez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11717204"
+        },
+        {
+            "citation":"GeoNames populated place 11717204: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11717204"
+        },
+        {
+            "citation":"GeoNames populated place 11717204: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11717204"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692811 (Alberdi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676691,
+        102191577,
+        1108692811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11717204
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e3fa5aba48b990f608d3c20a0bf9822e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692811,
+            "locality_id":9895054541,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":9895054541,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Establecimiento G\u00f3mez",
+    "wof:parent_id":1108692811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.01833,
+    -26.18305,
+    -58.01833,
+    -26.18305
+],
+  "geometry": {"coordinates":[-58.01833,-26.18305],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895054034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.52723,-27.21638,-56.52723,-27.21638",
+    "geom:latitude":-27.21638,
+    "geom:longitude":-56.52723,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11686252: name \"Estancia Santo Domingo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11686252"
+        },
+        {
+            "citation":"GeoNames populated place 11686252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11686252"
+        },
+        {
+            "citation":"GeoNames populated place 11686252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11686252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692743 (General Delgado), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11686252
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0b8039f034e45b9186ac038b20ebc4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692743,
+            "locality_id":9895054034,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895054034,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Santo Domingo",
+    "wof:parent_id":1108692743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.52723,
+    -27.21638,
+    -56.52723,
+    -27.21638
+],
+  "geometry": {"coordinates":[-56.52723,-27.21638],"type":"Point"}
+}

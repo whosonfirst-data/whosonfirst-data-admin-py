@@ -1,0 +1,74 @@
+{
+  "id": 9895054593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.72787,-25.72365,-57.72787,-25.72365",
+    "geom:latitude":-25.72365,
+    "geom:longitude":-57.72787,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11718582: name \"Estancia Lola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11718582"
+        },
+        {
+            "citation":"GeoNames populated place 11718582: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11718582"
+        },
+        {
+            "citation":"GeoNames populated place 11718582: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11718582"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421195021 (Villeta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676681,
+        102191577,
+        421195021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11718582
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3e01b2c4f724577c647622a64e342fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421195021,
+            "locality_id":9895054593,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":9895054593,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Estancia Lola",
+    "wof:parent_id":421195021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.72787,
+    -25.72365,
+    -57.72787,
+    -25.72365
+],
+  "geometry": {"coordinates":[-57.72787,-25.72365],"type":"Point"}
+}

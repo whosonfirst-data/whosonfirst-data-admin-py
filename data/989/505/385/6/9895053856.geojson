@@ -1,0 +1,74 @@
+{
+  "id": 9895053856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.60846,-27.10452,-56.60846,-27.10452",
+    "geom:latitude":-27.10452,
+    "geom:longitude":-56.60846,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3438844: name \"Compa\u00f1\u00eda San Pedro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3438844"
+        },
+        {
+            "citation":"GeoNames populated place 3438844: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3438844"
+        },
+        {
+            "citation":"GeoNames populated place 3438844: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3438844"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692743 (General Delgado), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676723,
+        102191577,
+        1108692743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438844
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"951ae87fa33dd040c4eca5bf5dbd7c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692743,
+            "locality_id":9895053856,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":9895053856,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda San Pedro",
+    "wof:parent_id":1108692743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.60846,
+    -27.10452,
+    -56.60846,
+    -27.10452
+],
+  "geometry": {"coordinates":[-56.60846,-27.10452],"type":"Point"}
+}

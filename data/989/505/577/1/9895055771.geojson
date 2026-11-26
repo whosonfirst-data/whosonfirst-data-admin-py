@@ -1,0 +1,74 @@
+{
+  "id": 9895055771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.07606,-24.06188,-57.07606,-24.06188",
+    "geom:latitude":-24.06188,
+    "geom:longitude":-57.07606,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11764581: name \"Compa\u00f1\u00eda Curupayty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11764581"
+        },
+        {
+            "citation":"GeoNames populated place 11764581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11764581"
+        },
+        {
+            "citation":"GeoNames populated place 11764581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11764581"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692761 (San Pedro Del Ykuamandiyu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11764581
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"40e60449e5074ac05526d4edec59211c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":9895055771,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055771,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Curupayty",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.07606,
+    -24.06188,
+    -57.07606,
+    -24.06188
+],
+  "geometry": {"coordinates":[-57.07606,-24.06188],"type":"Point"}
+}

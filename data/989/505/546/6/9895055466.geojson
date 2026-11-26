@@ -1,0 +1,74 @@
+{
+  "id": 9895055466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.92059,-24.25479,-56.92059,-24.25479",
+    "geom:latitude":-24.25479,
+    "geom:longitude":-56.92059,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11744865: name \"Compa\u00f1\u00eda Costa Puc\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11744865"
+        },
+        {
+            "citation":"GeoNames populated place 11744865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11744865"
+        },
+        {
+            "citation":"GeoNames populated place 11744865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11744865"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692831 (Villa Del Rosario), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744865
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0b80ace541fd1c09c5870936058d9377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":9895055466,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055466,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Compa\u00f1\u00eda Costa Puc\u00fa",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.92059,
+    -24.25479,
+    -56.92059,
+    -24.25479
+],
+  "geometry": {"coordinates":[-56.92059,-24.25479],"type":"Point"}
+}

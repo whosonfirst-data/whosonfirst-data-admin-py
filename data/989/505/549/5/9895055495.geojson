@@ -1,0 +1,74 @@
+{
+  "id": 9895055495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.86087,-24.07664,-56.86087,-24.07664",
+    "geom:latitude":-24.07664,
+    "geom:longitude":-56.86087,
+    "iso:country":"PY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11745798: name \"Puerto Games\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11745798"
+        },
+        {
+            "citation":"GeoNames populated place 11745798: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11745798"
+        },
+        {
+            "citation":"GeoNames populated place 11745798: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11745798"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108692761 (San Pedro Del Ykuamandiyu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355,
+        85676675,
+        102191577,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11745798
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8362d8945a8fe7fa0d0b5a93de359c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":9895055495,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":9895055495,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Puerto Games",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.86087,
+    -24.07664,
+    -56.86087,
+    -24.07664
+],
+  "geometry": {"coordinates":[-56.86087,-24.07664],"type":"Point"}
+}
